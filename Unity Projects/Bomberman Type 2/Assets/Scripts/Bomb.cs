@@ -16,11 +16,6 @@ public class Bomb : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-
-
-
-
-
         countdown -= Time.deltaTime;
 
         if (countdown <= 0f)
