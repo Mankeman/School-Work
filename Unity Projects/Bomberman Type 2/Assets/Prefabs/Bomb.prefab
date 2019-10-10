@@ -93,6 +93,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   explosionPrefab: {fileID: 1501495702445515358, guid: c1ae9d74ac5ccb4409b72ffe06a7f90c,
     type: 3}
+  levelMask:
+    serializedVersion: 2
+    m_Bits: 256
+  countdown: 2
 --- !u!212 &-4928738837716868973
 SpriteRenderer:
   m_ObjectHideFlags: 0

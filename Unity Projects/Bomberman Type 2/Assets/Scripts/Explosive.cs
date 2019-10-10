@@ -2,11 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Bomb : MonoBehaviour
+public class Explosive : MonoBehaviour
 {
-    public GameObject explosionPrefab;
     public LayerMask levelMask;
-    public float countdown = 2f;
+    public float countdown = .65f;
 
     void Start()
     {
@@ -26,7 +25,6 @@ public class Bomb : MonoBehaviour
         if (countdown <= 0f)
         {
             Destroy(gameObject);
-            Instantiate(explosionPrefab, transform.position, Quaternion.identity);
         }
 
 
