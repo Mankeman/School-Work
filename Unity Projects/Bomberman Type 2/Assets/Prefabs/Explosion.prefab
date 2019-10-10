@@ -141,6 +141,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9de5afb523c3ba444a7a9050c72d965a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  explosionPrefab: {fileID: 1501495702445515358}
   levelMask:
     serializedVersion: 2
     m_Bits: 256
