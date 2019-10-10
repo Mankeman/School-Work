@@ -1,0 +1,4495 @@
+fileFormatVersion: 2
+guid: 0b11db6e1feca3248a49f79ba4a8d4ed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1211086634800439048
+    second: Nyfoan Idea_0
+  - first:
+      213: -4268801202657250949
+    second: Nyfoan Idea_1
+  - first:
+      213: 3347939306606019840
+    second: Nyfoan Idea_2
+  - first:
+      213: -5838473187662389891
+    second: Nyfoan Idea_3
+  - first:
+      213: -3525492955301017610
+    second: Nyfoan Idea_4
+  - first:
+      213: 2143190984187150119
+    second: Nyfoan Idea_5
+  - first:
+      213: 6798331102546479549
+    second: Nyfoan Idea_6
+  - first:
+      213: 4707263336049973458
+    second: Nyfoan Idea_7
+  - first:
+      213: 5548828860642266335
+    second: Nyfoan Idea_8
+  - first:
+      213: 9132834935407391527
+    second: Nyfoan Idea_9
+  - first:
+      213: 9055015239208150786
+    second: Nyfoan Idea_10
+  - first:
+      213: -8034277349749905943
+    second: Nyfoan Idea_11
+  - first:
+      213: 3429392545164403818
+    second: Nyfoan Idea_12
+  - first:
+      213: 641487702696613102
+    second: Nyfoan Idea_13
+  - first:
+      213: -8813469635476569821
+    second: Nyfoan Idea_14
+  - first:
+      213: 2140364738098845569
+    second: Nyfoan Idea_15
+  - first:
+      213: 1868286851499230127
+    second: Nyfoan Idea_16
+  - first:
+      213: 8008973360104082022
+    second: Nyfoan Idea_17
+  - first:
+      213: 5955169687572095284
+    second: Nyfoan Idea_18
+  - first:
+      213: 6716090556576330766
+    second: Nyfoan Idea_19
+  - first:
+      213: -2573976127388143293
+    second: Nyfoan Idea_20
+  - first:
+      213: -8914332305754467108
+    second: Nyfoan Idea_21
+  - first:
+      213: -6741641535335267975
+    second: Nyfoan Idea_22
+  - first:
+      213: -9045701656993818106
+    second: Nyfoan Idea_23
+  - first:
+      213: -8128014066904023016
+    second: Nyfoan Idea_24
+  - first:
+      213: 8991478137685350791
+    second: Nyfoan Idea_25
+  - first:
+      213: -4008850445522985074
+    second: Nyfoan Idea_26
+  - first:
+      213: -2960121464455838103
+    second: Nyfoan Idea_27
+  - first:
+      213: 3001140580393903998
+    second: Nyfoan Idea_28
+  - first:
+      213: -7841287598710986342
+    second: Nyfoan Idea_29
+  - first:
+      213: 1734731543870884671
+    second: Nyfoan Idea_30
+  - first:
+      213: 1338024533327206040
+    second: Nyfoan Idea_31
+  - first:
+      213: -3128732824643863867
+    second: Nyfoan Idea_32
+  - first:
+      213: -3452657090871297089
+    second: Nyfoan Idea_33
+  - first:
+      213: -8167742832955428256
+    second: Nyfoan Idea_34
+  - first:
+      213: -5261273884415502508
+    second: Nyfoan Idea_35
+  - first:
+      213: -5451234417428720505
+    second: Nyfoan Idea_36
+  - first:
+      213: -4460760000975014395
+    second: Nyfoan Idea_37
+  - first:
+      213: -3028057664853666000
+    second: Nyfoan Idea_38
+  - first:
+      213: 6075887114570704129
+    second: Nyfoan Idea_39
+  - first:
+      213: 4009012255532205886
+    second: Nyfoan Idea_40
+  - first:
+      213: -2943246731459328789
+    second: Nyfoan Idea_41
+  - first:
+      213: -4367969185178871370
+    second: Nyfoan Idea_42
+  - first:
+      213: -798529381444256002
+    second: Nyfoan Idea_43
+  - first:
+      213: -757839348433645374
+    second: Nyfoan Idea_44
+  - first:
+      213: 5303240790362191380
+    second: Nyfoan Idea_45
+  - first:
+      213: -1019358753596449226
+    second: Nyfoan Idea_46
+  - first:
+      213: 5448432234513831401
+    second: Nyfoan Idea_47
+  - first:
+      213: 7145568978371394111
+    second: Nyfoan Idea_48
+  - first:
+      213: 7463352057965593739
+    second: Nyfoan Idea_49
+  - first:
+      213: -3921284759289199753
+    second: Nyfoan Idea_50
+  - first:
+      213: 9166693052901638328
+    second: Nyfoan Idea_51
+  - first:
+      213: 7518409028282997436
+    second: Nyfoan Idea_52
+  - first:
+      213: -1395474170968810213
+    second: Nyfoan Idea_53
+  - first:
+      213: -555979485052810430
+    second: Nyfoan Idea_54
+  - first:
+      213: 8576434517323714618
+    second: Nyfoan Idea_55
+  - first:
+      213: 4420254698289522751
+    second: Nyfoan Idea_56
+  - first:
+      213: -1004062819603907372
+    second: Nyfoan Idea_57
+  - first:
+      213: 1260796324975770599
+    second: Nyfoan Idea_58
+  - first:
+      213: -1076257244400433615
+    second: Nyfoan Idea_59
+  - first:
+      213: 7568790297018092321
+    second: Nyfoan Idea_60
+  - first:
+      213: 3293033217520512955
+    second: Nyfoan Idea_61
+  - first:
+      213: 4441273690423881966
+    second: Nyfoan Idea_62
+  - first:
+      213: 1775276659099943561
+    second: Nyfoan Idea_63
+  - first:
+      213: -2431413958915636780
+    second: Nyfoan Idea_64
+  - first:
+      213: -2956350716828098610
+    second: Nyfoan Idea_65
+  - first:
+      213: -4099518382688851663
+    second: Nyfoan Idea_66
+  - first:
+      213: 3147710528644302015
+    second: Nyfoan Idea_67
+  - first:
+      213: 2439572201280726875
+    second: Nyfoan Idea_68
+  - first:
+      213: -2857385153571717736
+    second: Nyfoan Idea_69
+  - first:
+      213: 4679299548787180063
+    second: Nyfoan Idea_70
+  - first:
+      213: -2694510746303984629
+    second: Nyfoan Idea_71
+  - first:
+      213: -5198253076678668123
+    second: Nyfoan Idea_72
+  - first:
+      213: -861337136152780038
+    second: Nyfoan Idea_73
+  - first:
+      213: 5064751663212527653
+    second: Nyfoan Idea_74
+  - first:
+      213: -4891193205919594998
+    second: Nyfoan Idea_75
+  - first:
+      213: 2744695054892892838
+    second: Nyfoan Idea_76
+  - first:
+      213: -133317491005866024
+    second: Nyfoan Idea_77
+  - first:
+      213: -7777435131018023163
+    second: Nyfoan Idea_78
+  - first:
+      213: -3492092329383680246
+    second: Nyfoan Idea_79
+  - first:
+      213: -4086644566472384168
+    second: Nyfoan Idea_80
+  - first:
+      213: -1566990269914350737
+    second: Nyfoan Idea_81
+  - first:
+      213: 5703868384141373671
+    second: Nyfoan Idea_82
+  - first:
+      213: 1835687506241940977
+    second: Nyfoan Idea_83
+  - first:
+      213: 7826456912362361751
+    second: Nyfoan Idea_84
+  - first:
+      213: -7899970829548878363
+    second: Nyfoan Idea_85
+  - first:
+      213: -1120860694055849805
+    second: Nyfoan Idea_86
+  - first:
+      213: 8723652487766790999
+    second: Nyfoan Idea_87
+  - first:
+      213: 5842343947816780262
+    second: Nyfoan Idea_88
+  - first:
+      213: -5103739709964010579
+    second: Nyfoan Idea_89
+  - first:
+      213: 92031406274574700
+    second: Nyfoan Idea_90
+  - first:
+      213: -831318439490070145
+    second: Nyfoan Idea_91
+  - first:
+      213: -7113664570264282743
+    second: Nyfoan Idea_92
+  - first:
+      213: 4464653591350109111
+    second: Nyfoan Idea_93
+  - first:
+      213: -862555143444552252
+    second: Nyfoan Idea_94
+  - first:
+      213: 7810242204746245916
+    second: Nyfoan Idea_95
+  - first:
+      213: -6780999521295073315
+    second: Nyfoan Idea_96
+  - first:
+      213: 136100404145835405
+    second: Nyfoan Idea_97
+  - first:
+      213: -1034799422658580594
+    second: Nyfoan Idea_98
+  - first:
+      213: 8417711515311146814
+    second: Nyfoan Idea_99
+  - first:
+      213: 8144884172346869421
+    second: Nyfoan Idea_100
+  - first:
+      213: 2540858688467542609
+    second: Nyfoan Idea_101
+  - first:
+      213: -1548736879336275378
+    second: Nyfoan Idea_102
+  - first:
+      213: -6924353495363741339
+    second: Nyfoan Idea_103
+  - first:
+      213: 855861015340338653
+    second: Nyfoan Idea_104
+  - first:
+      213: 7730457684858673920
+    second: Nyfoan Idea_105
+  - first:
+      213: 7653580357910338460
+    second: Nyfoan Idea_106
+  - first:
+      213: 8757155103536536711
+    second: Nyfoan Idea_107
+  - first:
+      213: -7451813930136004416
+    second: Nyfoan Idea_108
+  - first:
+      213: 5057101297368008620
+    second: Nyfoan Idea_109
+  - first:
+      213: -4331094197990519401
+    second: Nyfoan Idea_110
+  - first:
+      213: -5425135461728053871
+    second: Nyfoan Idea_111
+  - first:
+      213: 2382806964801672070
+    second: Nyfoan Idea_112
+  - first:
+      213: -9157017028898443362
+    second: Nyfoan Idea_113
+  - first:
+      213: 2920733938689970436
+    second: Nyfoan Idea_114
+  - first:
+      213: 976319737341921078
+    second: Nyfoan Idea_115
+  - first:
+      213: -4611132100582696359
+    second: Nyfoan Idea_116
+  - first:
+      213: 6234971352420015911
+    second: Nyfoan Idea_117
+  - first:
+      213: 8222327519525909499
+    second: Nyfoan Idea_118
+  - first:
+      213: -6469161862279112486
+    second: Nyfoan Idea_119
+  - first:
+      213: -7609931923437800090
+    second: Nyfoan Idea_120
+  - first:
+      213: -1753693885097079741
+    second: Nyfoan Idea_121
+  - first:
+      213: 3516243068815226233
+    second: Nyfoan Idea_122
+  - first:
+      213: 6155479861813582963
+    second: Nyfoan Idea_123
+  - first:
+      213: 6593869282494850898
+    second: Nyfoan Idea_124
+  - first:
+      213: 3838844409722964677
+    second: Nyfoan Idea_125
+  - first:
+      213: -1184969821445183045
+    second: Nyfoan Idea_126
+  - first:
+      213: -9192373620184338749
+    second: Nyfoan Idea_127
+  - first:
+      213: 4752072041345069227
+    second: Nyfoan Idea_128
+  - first:
+      213: -8094861384682776199
+    second: Nyfoan Idea_129
+  - first:
+      213: 8456663094095313600
+    second: Nyfoan Idea_130
+  - first:
+      213: 7155664530496480004
+    second: Nyfoan Idea_131
+  - first:
+      213: 8150275626341445250
+    second: Nyfoan Idea_132
+  - first:
+      213: -8695645407573374816
+    second: Nyfoan Idea_133
+  - first:
+      213: -8935865904904840018
+    second: Nyfoan Idea_134
+  - first:
+      213: -6118448934970709866
+    second: Nyfoan Idea_135
+  - first:
+      213: 7075430113539824195
+    second: Nyfoan Idea_136
+  - first:
+      213: 4121397340438784668
+    second: Nyfoan Idea_137
+  - first:
+      213: -7426692252523032763
+    second: Nyfoan Idea_138
+  - first:
+      213: -3140185305078531836
+    second: Nyfoan Idea_139
+  - first:
+      213: -7170694145165024583
+    second: Nyfoan Idea_140
+  - first:
+      213: 4153586188437434704
+    second: Nyfoan Idea_141
+  - first:
+      213: -8805067553029896125
+    second: Nyfoan Idea_142
+  - first:
+      213: 4409941194929350590
+    second: Nyfoan Idea_143
+  - first:
+      213: 271600104177353213
+    second: Nyfoan Idea_144
+  - first:
+      213: -4542912435699504734
+    second: Nyfoan Idea_145
+  - first:
+      213: -2262377491009548501
+    second: Nyfoan Idea_146
+  - first:
+      213: -4192251634313557921
+    second: Nyfoan Idea_147
+  - first:
+      213: 559796456058885704
+    second: Nyfoan Idea_148
+  - first:
+      213: -6993002404306457939
+    second: Nyfoan Idea_149
+  - first:
+      213: -173115822543968647
+    second: Nyfoan Idea_150
+  - first:
+      213: -5925473038074564062
+    second: Nyfoan Idea_151
+  - first:
+      213: 7798201366409460565
+    second: Nyfoan Idea_152
+  - first:
+      213: -8238491350263505740
+    second: Nyfoan Idea_153
+  - first:
+      213: -3899171996896129196
+    second: Nyfoan Idea_154
+  - first:
+      213: 6418195431337054968
+    second: Nyfoan Idea_155
+  - first:
+      213: 3233882662006611357
+    second: Nyfoan Idea_156
+  - first:
+      213: 1905515582638229856
+    second: Nyfoan Idea_157
+  - first:
+      213: -244269954697020878
+    second: Nyfoan Idea_158
+  - first:
+      213: -6806009555947495022
+    second: Nyfoan Idea_159
+  - first:
+      213: -4545309894594708169
+    second: Nyfoan Idea_160
+  - first:
+      213: 5315574076981404521
+    second: Nyfoan Idea_161
+  - first:
+      213: -4860542036593175318
+    second: Nyfoan Idea_162
+  - first:
+      213: 7693589258048687417
+    second: Nyfoan Idea_163
+  - first:
+      213: -8365660220647859687
+    second: Nyfoan Idea_164
+  - first:
+      213: -8575142590931246609
+    second: Nyfoan Idea_165
+  - first:
+      213: -24540072236868125
+    second: Nyfoan Idea_166
+  - first:
+      213: 5004873671541161308
+    second: Nyfoan Idea_167
+  - first:
+      213: 8154951110255307261
+    second: Nyfoan Idea_168
+  - first:
+      213: -5803185672736170640
+    second: Nyfoan Idea_169
+  - first:
+      213: 8924620878808690028
+    second: Nyfoan Idea_170
+  - first:
+      213: 3081704923845158530
+    second: Nyfoan Idea_171
+  - first:
+      213: -4966685765324245655
+    second: Nyfoan Idea_172
+  - first:
+      213: 3023739542045817353
+    second: Nyfoan Idea_173
+  - first:
+      213: 8197655931503614741
+    second: Nyfoan Idea_174
+  - first:
+      213: 8155522953612618238
+    second: Nyfoan Idea_175
+  - first:
+      213: 3546179482898660314
+    second: Nyfoan Idea_176
+  - first:
+      213: 6005132787619481724
+    second: Nyfoan Idea_177
+  - first:
+      213: 2594680578725160864
+    second: Nyfoan Idea_178
+  - first:
+      213: 4655619184855992853
+    second: Nyfoan Idea_179
+  - first:
+      213: 2444113718450883767
+    second: Nyfoan Idea_180
+  - first:
+      213: -3376811634739863308
+    second: Nyfoan Idea_181
+  - first:
+      213: -8321753920521658262
+    second: Nyfoan Idea_182
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nyfoan Idea_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1282
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6bc6a78ad56904981990043a5f3cbd
+      internalID: -1211086634800439048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1282
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68cdde084203f44c95fe02457af84b3
+      internalID: -4268801202657250949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1282
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9768e72e36f6970459e8cd02c26496c7
+      internalID: 3347939306606019840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1282
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d380b49a6aacf40b731d938dc07ba8
+      internalID: -5838473187662389891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_4
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1282
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a631053725bff479d28676a2ef497b
+      internalID: -3525492955301017610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_5
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1282
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8ba1bde11c07e4b86ad8fa829fc2f5
+      internalID: 2143190984187150119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1282
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a6a956d9396af49b360c1b7565e361
+      internalID: 6798331102546479549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_7
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1218
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee7174fc1d80d24887454a14723b1a1
+      internalID: 4707263336049973458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_8
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1218
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5d01de4cbf6ac4b9b15e52d866b3e4
+      internalID: 5548828860642266335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_9
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1218
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ec822befe044e4eb62a0ce0ad23753
+      internalID: 9132834935407391527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_10
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1218
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d52f98882f17a042ace4ad739463f4f
+      internalID: 9055015239208150786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_11
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1218
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036d9072fcbf991409365296b7f749b5
+      internalID: -8034277349749905943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_12
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1218
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee01862c0bdad3458dd82a0a2a09b3b
+      internalID: 3429392545164403818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_13
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1218
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a0273d6721f9243ade11a817e74280
+      internalID: 641487702696613102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_14
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1154
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4d3b38e512ab84dbaedf63d30bc9e4
+      internalID: -8813469635476569821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_15
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1154
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ebe308592cd07b43ba71834a43daede
+      internalID: 2140364738098845569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_16
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1154
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a21ad47d48de6418e660e652e73c4b
+      internalID: 1868286851499230127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_17
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1154
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c322aaa6a96763f448ea970e350397df
+      internalID: 8008973360104082022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_18
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1154
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b28c73eb2e98a5449e946e2ec459ec0
+      internalID: 5955169687572095284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_19
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1154
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17f37fc6d942ae42bdc1cfa32139c79
+      internalID: 6716090556576330766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_20
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1154
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1830647752cae8b4c900e1846e96a0dd
+      internalID: -2573976127388143293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_21
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1189
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17998cd477c66e04ea14d177fcb416c7
+      internalID: -8914332305754467108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_22
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1189
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1c2772753b8854e953d2862f1025b8
+      internalID: -6741641535335267975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_23
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1189
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae69fa4ce0a88e4fb9b55d538397d9a
+      internalID: -9045701656993818106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_24
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1189
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59214d09073e2c488684048b31e4224
+      internalID: -8128014066904023016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_25
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1189
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2d2c31e4d63d747ad4775e9515565f
+      internalID: 8991478137685350791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_26
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1090
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0858fb1a537a0d468f0633ac06cb617
+      internalID: -4008850445522985074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_27
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1090
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce83064e59768984383a5099f782832f
+      internalID: -2960121464455838103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_28
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1090
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51557d66bddcc994eb5fb30e61d1a870
+      internalID: 3001140580393903998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_29
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1090
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d295066bf33eee40928fe48a83cd532
+      internalID: -7841287598710986342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_30
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1090
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f52cd2865d48147a545b8356cd1b4f
+      internalID: 1734731543870884671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_31
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1090
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09777ead7326af84c926643a559861ad
+      internalID: 1338024533327206040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_32
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1090
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d073a5860b227242be4524d1b7fec79
+      internalID: -3128732824643863867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1026
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c05f56c81856344af87533b30320c7
+      internalID: -3452657090871297089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_34
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1024
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754c537e0ea553e4d8544d2f9c8a985c
+      internalID: -8167742832955428256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_35
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1024
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48a24dad8d32f3498fceb1abd7c5c25
+      internalID: -5261273884415502508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_36
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1024
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02065822cb9ba734ebeb8cca4a807aab
+      internalID: -5451234417428720505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_37
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1024
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc8f55a1d4c8604e937b8cf6dc4035f
+      internalID: -4460760000975014395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_38
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1024
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f97b151ea940cb419a0798d2040ffcd
+      internalID: -3028057664853666000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_39
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1024
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b76a3332153ace488eaac666bddc4d2
+      internalID: 6075887114570704129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_40
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1024
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712018a1ef0bd8846b2bbd04320a9f67
+      internalID: 4009012255532205886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_41
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 962
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a08b8b2d69345b428d954ff86d4c49a
+      internalID: -2943246731459328789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_42
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 962
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9f25e29f68993469ef6a02c62d6b2a
+      internalID: -4367969185178871370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_43
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 962
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64dcbe81586f5204ba0c91a3d341cb67
+      internalID: -798529381444256002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_44
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 962
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84036aa0ba5b1f74a95bf32a469f391f
+      internalID: -757839348433645374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_45
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 962
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b366cf034ba18854b8fa6f326b9b47a7
+      internalID: 5303240790362191380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_46
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 962
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c018b1e3dbfa6468aa6e3a678fb8d4
+      internalID: -1019358753596449226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_47
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 962
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1ac9228af2b954c8e5197b6a2aad94
+      internalID: 5448432234513831401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_48
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 962
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c05857e61231b4583faa431c8f5794
+      internalID: 7145568978371394111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_49
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 898
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6387f04d0b522f4e9136d227d312f61
+      internalID: 7463352057965593739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_50
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 899
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e964c7228800c84d96c6264be546bfd
+      internalID: -3921284759289199753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_51
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 899
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40f939ad51cc8c4bbdfa226be8e2ef6
+      internalID: 9166693052901638328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_52
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 899
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4f85de7b61ea24cbf50ad7a42ea9dc
+      internalID: 7518409028282997436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_53
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 899
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce08178db18931b4c8b4a96e2277a59a
+      internalID: -1395474170968810213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_54
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 899
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492a4f63b94248149818ae2b294cc152
+      internalID: -555979485052810430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_55
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 899
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a212022be22076549972e8da15707e13
+      internalID: 8576434517323714618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_56
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 899
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8227c95d48506bd47a59c0a1cc968d3b
+      internalID: 4420254698289522751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_57
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 834
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9d1b2a01110f54bbcdb73c85e4c135
+      internalID: -1004062819603907372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_58
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 834
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2dedcb41299e143a1f56a39b46325d
+      internalID: 1260796324975770599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_59
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 834
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e423948afe6fba4fb3e26f641d684ba
+      internalID: -1076257244400433615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_60
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 834
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f3a9a66875f654e959807f221764d3
+      internalID: 7568790297018092321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_61
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 834
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8bc4be51dc73042bfec461b51d0ccf
+      internalID: 3293033217520512955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_62
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 834
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0b7d7d334fab44ab54faeab33a0765
+      internalID: 4441273690423881966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_63
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 834
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb1c9a7304ffbc4fb3f50ef506b5407
+      internalID: 1775276659099943561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_64
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 834
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387e0dbce6294984abc54de8954a0593
+      internalID: -2431413958915636780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_65
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 771
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555b3b4ccf244d54a8265170c0893b2d
+      internalID: -2956350716828098610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_66
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 771
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93cd485752188a94f9ed9e2a8b199df1
+      internalID: -4099518382688851663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_67
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 770
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f61089ef7c631543a7098e4a95934af
+      internalID: 3147710528644302015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_68
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 769
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca973456823e83c4287e1954d5343025
+      internalID: 2439572201280726875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_69
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 770
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c201226ddd7c5714f9797df2f0497695
+      internalID: -2857385153571717736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_70
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 771
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d9f81a7fdb0834aa347855881f13ec
+      internalID: 4679299548787180063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_71
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 770
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774bc0730c4c65b45a9b2204baf1b7b4
+      internalID: -2694510746303984629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_72
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 769
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb400d76fe17cb54b9652a46a864970f
+      internalID: -5198253076678668123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_73
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 770
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6daa75f74d062ba48b593faeb153df9a
+      internalID: -861337136152780038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_74
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 706
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d56c99790e4bda4fab03bc4582dbaa6
+      internalID: 5064751663212527653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_75
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 706
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2a0333104695b44af110065377c1d7
+      internalID: -4891193205919594998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_76
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 707
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37093a6dd1b93d74b8e90329529e353d
+      internalID: 2744695054892892838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_77
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 707
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d4492ed95ec1e4e86e98e4722d9459
+      internalID: -133317491005866024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_78
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 706
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9053615854d12a4f87c0735464b0285
+      internalID: -7777435131018023163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_79
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 706
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e762cbc2971c27c429eecf17265d77f0
+      internalID: -3492092329383680246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_80
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 706
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e333fa95a0b72489274aa0907c88c3
+      internalID: -4086644566472384168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_81
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 706
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff2db4380b382144af3c27e6b6cdc1a
+      internalID: -1566990269914350737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_82
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 706
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207af572ba3d8714bbf8a2be12498f6c
+      internalID: 5703868384141373671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_83
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 642
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6379a06bfab5cee45a2ea5d241107968
+      internalID: 1835687506241940977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_84
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 642
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa4921ab42083f42a933c92c9193fb2
+      internalID: 7826456912362361751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_85
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 641
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b25ccfdcb9ac14681bee1bf77695ef
+      internalID: -7899970829548878363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_86
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 641
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f7e95dc174ad043bb50a48fe5c87cf
+      internalID: -1120860694055849805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_87
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 641
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0a4f2337487844ba8d9b060c298f1d
+      internalID: 8723652487766790999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_88
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 642
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01b5044aa89e8d49b2b8c764fcbc6de
+      internalID: 5842343947816780262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_89
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 641
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b340fc841c3befc4fac903b6b23af37a
+      internalID: -5103739709964010579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_90
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 641
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f891694d8732444ac0a371f392ea1b
+      internalID: 92031406274574700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_91
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 641
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413b5e806e2882d408285309a80a98d4
+      internalID: -831318439490070145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_92
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 578
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908e62ed2a1fdc14c98d1bbbccbb60c5
+      internalID: -7113664570264282743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_93
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 578
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ddbe28293e0c54bad59772808fa797
+      internalID: 4464653591350109111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_94
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 579
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36952718963b1649af018205c099562
+      internalID: -862555143444552252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_95
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 579
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041777a3aadf38b4bb8946ff044e544b
+      internalID: 7810242204746245916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_96
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 578
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40b732519941cd4f9f9fecaf44bff4f
+      internalID: -6780999521295073315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_97
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 578
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd6cb9ac5d990947b989940afdfc446
+      internalID: 136100404145835405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_98
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 578
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9863d49698d77a48a0ff8e25460cbc5
+      internalID: -1034799422658580594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_99
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 578
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e735819ba186ba9408f9a61f119c9a5f
+      internalID: 8417711515311146814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_100
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 578
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2b5313509a27f4b86dd9b75315de14
+      internalID: 8144884172346869421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_101
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 514
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd048428d997aa1469ef9c60205dcf9b
+      internalID: 2540858688467542609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_102
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 513
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab35b26842c8b14d8452df9484f1e67
+      internalID: -1548736879336275378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_103
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 513
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9927c94a3133274188e40647f556e42
+      internalID: -6924353495363741339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_104
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 513
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fef56156653fae439299598f9482225
+      internalID: 855861015340338653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_105
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 513
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185f7f93ff4750a4e9a63b7b0aab5570
+      internalID: 7730457684858673920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_106
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 513
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210f6bbb034350b40b56f8dcc2569be2
+      internalID: 7653580357910338460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_107
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 450
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f8567bf9613c445b1f15e09d51e0b1
+      internalID: 8757155103536536711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_108
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 450
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29a46b64feb9f14e92b573c3bfc50df
+      internalID: -7451813930136004416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_109
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 450
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c607daac947d646800b56c2750e656
+      internalID: 5057101297368008620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_110
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 450
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d3733fa2b033843bae1d81d5e229dd
+      internalID: -4331094197990519401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_111
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 450
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79a20da7ebc9ff4cb777eca26782e23
+      internalID: -5425135461728053871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_112
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 450
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f71d7c2a2541904bb69f1b2ed94ce42
+      internalID: 2382806964801672070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_113
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 386
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ee5c173a253fc4b9e1354c163da1c3
+      internalID: -9157017028898443362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_114
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 386
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c23b7c38cffff4287f68d9b0828f17
+      internalID: 2920733938689970436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_115
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 386
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87e6152e8ed00d41b00fb6df3c06721
+      internalID: 976319737341921078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_116
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 386
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860f357e8f9081942b1a84d6df632b57
+      internalID: -4611132100582696359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_117
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 386
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a2c41e44ecf3f41b733240436e6002
+      internalID: 6234971352420015911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_118
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 386
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8686b56186bc9749a87f914fb02cfb0
+      internalID: 8222327519525909499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_119
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 322
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae61161f7618fc43bfb97cfa7f058bb
+      internalID: -6469161862279112486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_120
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 322
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3eb59ee9d8db0a48a8c884757821496
+      internalID: -7609931923437800090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_121
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 322
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936fbe6dfe88ee24aaf90a278a020dc0
+      internalID: -1753693885097079741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_122
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 322
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c31294df7ac314da9a241a7a1367d1
+      internalID: 3516243068815226233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_123
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 322
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e34d5a3504907449a7d27fb194f391
+      internalID: 6155479861813582963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_124
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 322
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4421703436d356147b77463401d3014a
+      internalID: 6593869282494850898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_125
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 258
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5faa2ae76467d4183a16dfd93df154
+      internalID: 3838844409722964677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_126
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 256
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6550cf6dd84e0f04e91f75b3cf875b56
+      internalID: -1184969821445183045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_127
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 256
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13257c6b6021e53418492ead5901d016
+      internalID: -9192373620184338749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_128
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 256
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5ff47eabb3c204d81300d4154e8bbb
+      internalID: 4752072041345069227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_129
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 256
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d49152d7efed74089b84d52b254e33
+      internalID: -8094861384682776199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_130
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 256
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8f17d6e41d8444cb6f74caf4e23009
+      internalID: 8456663094095313600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_131
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 256
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763c214ce10e23f47aceca020ee71111
+      internalID: 7155664530496480004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_132
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 256
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc89c8241ceb7745bf5829ec0aa831d
+      internalID: 8150275626341445250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_133
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 256
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa937cf85d137f42bbbd5068990b02c
+      internalID: -8695645407573374816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_134
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 256
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c423006669fa62c4899cc70985cf0019
+      internalID: -8935865904904840018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_135
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 256
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c02e1648a9d9604d8777a2e214e389c
+      internalID: -6118448934970709866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_136
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 256
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b699119e0f6df45a3dbe947467b4eb
+      internalID: 7075430113539824195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_137
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 256
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d11da57faa2a654f98ce80fc0aa2d5d
+      internalID: 4121397340438784668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_138
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 194
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ccc6c3e2834fa74ca8394f96472d2cd
+      internalID: -7426692252523032763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_139
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 194
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d87459e119e8454fad890a340f56c35
+      internalID: -3140185305078531836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_140
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 194
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f927800d189679949a55a5b3c3740986
+      internalID: -7170694145165024583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_141
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 194
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af918451fb49a14293d9e10b3bebc0e
+      internalID: 4153586188437434704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_142
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 194
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a176bb96bba50458053130f2436ef0
+      internalID: -8805067553029896125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_143
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 194
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bfea66cbd4f8e04dbc2dc5220d5f377
+      internalID: 4409941194929350590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_144
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 194
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76be42a7282e314281094ee1b5b9a96
+      internalID: 271600104177353213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_145
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 194
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80d6961cb0d50d4898b62dc54cc37a7
+      internalID: -4542912435699504734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_146
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 194
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59cca36846593143b0f8ea9b3efb741
+      internalID: -2262377491009548501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_147
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 194
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d5616876376b448ba397a11a0968c5
+      internalID: -4192251634313557921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_148
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 194
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e03ed55f5ea0640ac5a596255e3558
+      internalID: 559796456058885704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_149
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 194
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126466e6b6c78b44092a83b2b7f720c6
+      internalID: -6993002404306457939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_150
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 194
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5b091e7a67d314cab2371c96223347
+      internalID: -173115822543968647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_151
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 130
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd9a4c5e5113aa49b3f0d4095bd6b33
+      internalID: -5925473038074564062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_152
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 131
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0479720f5cbb946a42a1bb56d7349a
+      internalID: 7798201366409460565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_153
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 131
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e6630e1f5cdbb45a04a3c710992e52
+      internalID: -8238491350263505740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_154
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 128
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30283b8c08024b4d95e7d4a3e210eeb
+      internalID: -3899171996896129196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_155
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 128
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4dc317987f3598469c71c7a0e265d25
+      internalID: 6418195431337054968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_156
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 130
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e8dc4127de33c4fa5093ab54940857
+      internalID: 3233882662006611357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_157
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 130
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89527b70cfd3ec8488d03995ecfdb940
+      internalID: 1905515582638229856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_158
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 130
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7ac6d36a5bb2e4a9e0c79d75a26536
+      internalID: -244269954697020878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_159
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 130
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f50b70a094caaa4b9bf59d51df32c45
+      internalID: -6806009555947495022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_160
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 128
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b79b1672f853148bba27728e49af50
+      internalID: -4545309894594708169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_161
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 128
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1523dd6dab50d2345bfe237910935a11
+      internalID: 5315574076981404521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_162
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 128
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21956e12ce2510469f7f38315d6c7df
+      internalID: -4860542036593175318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_163
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 128
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad212851dbb639b4a84a051d43b56c3f
+      internalID: 7693589258048687417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_164
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 66
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2797cd5339389294cb80f77361872979
+      internalID: -8365660220647859687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_165
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 66
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e6173001c58ef4c84ed4af2c9b0227
+      internalID: -8575142590931246609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_166
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 66
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b70f35000281548b99f943b995c457
+      internalID: -24540072236868125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_167
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 66
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a86c1d9269e63c459eb96140dc1245f
+      internalID: 5004873671541161308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_168
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 66
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a74383d36dfc648b3dd6b2a6b85698
+      internalID: 8154951110255307261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_169
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 66
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f1769a5bf066f4a8964ae2bf052118
+      internalID: -5803185672736170640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_170
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 66
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31435da259fa5449b7bae8428b12b82
+      internalID: 8924620878808690028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_171
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 66
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b236f93208f0c4f831a29cf665f114
+      internalID: 3081704923845158530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_172
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 66
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40c5b7f1fa74c444861faa5d431d12b
+      internalID: -4966685765324245655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_173
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 66
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76c7439756484e40ae93d75dd44a041
+      internalID: 3023739542045817353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_174
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 66
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86f67d944dcecb49b0536e89ab918e7
+      internalID: 8197655931503614741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_175
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 66
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504ec63247c5e304099d3b379a1d714e
+      internalID: 8155522953612618238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_176
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 66
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65975334fbdbf540abd9b6ef93b2e04
+      internalID: 3546179482898660314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_177
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac899795306d464bb983cde804a8cf2
+      internalID: 6005132787619481724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_178
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c898b93f1fa8046b9341cd8f64d268
+      internalID: 2594680578725160864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_179
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f3e08d29760394d84afd1a12a9d32d
+      internalID: 4655619184855992853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_180
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 3
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd877e70edb19c848a284496cdf3901a
+      internalID: 2444113718450883767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_181
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 0
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980d950f7ada55a46abb6d3778f01f3b
+      internalID: -3376811634739863308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyfoan Idea_182
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 0
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42c28206d7f4e84989277ead3d06239
+      internalID: -8321753920521658262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

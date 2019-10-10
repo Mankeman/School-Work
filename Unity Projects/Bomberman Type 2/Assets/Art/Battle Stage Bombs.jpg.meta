@@ -1,0 +1,1831 @@
+fileFormatVersion: 2
+guid: 21e3a0387fb499742897f047e24c3112
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 337752199696707168
+    second: Battle Stage Bombs_0
+  - first:
+      213: -3248612291205812070
+    second: Battle Stage Bombs_1
+  - first:
+      213: -1611901340418702933
+    second: Battle Stage Bombs_2
+  - first:
+      213: 4445410948678579014
+    second: Battle Stage Bombs_3
+  - first:
+      213: 2651150669580477827
+    second: Battle Stage Bombs_4
+  - first:
+      213: -5003067148246528414
+    second: Battle Stage Bombs_5
+  - first:
+      213: -6303068104294765334
+    second: Battle Stage Bombs_6
+  - first:
+      213: 8830176557128269987
+    second: Battle Stage Bombs_7
+  - first:
+      213: -9169142808926432843
+    second: Battle Stage Bombs_8
+  - first:
+      213: -8087961424236927219
+    second: Battle Stage Bombs_9
+  - first:
+      213: -1509842044187201126
+    second: Battle Stage Bombs_10
+  - first:
+      213: -3334561344721026235
+    second: Battle Stage Bombs_11
+  - first:
+      213: -7308996355169376564
+    second: Battle Stage Bombs_12
+  - first:
+      213: -6716925024620462739
+    second: Battle Stage Bombs_13
+  - first:
+      213: -4186248107564177822
+    second: Battle Stage Bombs_14
+  - first:
+      213: 4322527450508674142
+    second: Battle Stage Bombs_15
+  - first:
+      213: 4801998301986276151
+    second: Battle Stage Bombs_16
+  - first:
+      213: 1200056006787087930
+    second: Battle Stage Bombs_17
+  - first:
+      213: 29012134436902111
+    second: Battle Stage Bombs_18
+  - first:
+      213: 1371695981452492205
+    second: Battle Stage Bombs_19
+  - first:
+      213: 6969785505552896723
+    second: Battle Stage Bombs_20
+  - first:
+      213: 5184957578189515169
+    second: Battle Stage Bombs_21
+  - first:
+      213: 2023435377501043321
+    second: Battle Stage Bombs_22
+  - first:
+      213: 8448791606935244083
+    second: Battle Stage Bombs_23
+  - first:
+      213: 2177114635360889035
+    second: Battle Stage Bombs_24
+  - first:
+      213: 4495992088583615220
+    second: Battle Stage Bombs_25
+  - first:
+      213: 3641368664184963050
+    second: Battle Stage Bombs_26
+  - first:
+      213: 6791450493861679232
+    second: Battle Stage Bombs_27
+  - first:
+      213: -5755814712379349887
+    second: Battle Stage Bombs_28
+  - first:
+      213: -6688757321976579583
+    second: Battle Stage Bombs_29
+  - first:
+      213: -8374178098209703817
+    second: Battle Stage Bombs_30
+  - first:
+      213: -8964978366275925890
+    second: Battle Stage Bombs_31
+  - first:
+      213: 1740994598074918614
+    second: Battle Stage Bombs_32
+  - first:
+      213: -5749454503048531689
+    second: Battle Stage Bombs_33
+  - first:
+      213: -6964574265459305816
+    second: Battle Stage Bombs_34
+  - first:
+      213: 2133776803670190277
+    second: Battle Stage Bombs_35
+  - first:
+      213: -4395358799111481851
+    second: Battle Stage Bombs_36
+  - first:
+      213: 680106161859793218
+    second: Battle Stage Bombs_37
+  - first:
+      213: -2059551165793962973
+    second: Battle Stage Bombs_38
+  - first:
+      213: 8877174712620456607
+    second: Battle Stage Bombs_39
+  - first:
+      213: -8169213486019940794
+    second: Battle Stage Bombs_40
+  - first:
+      213: -820473180795196269
+    second: Battle Stage Bombs_41
+  - first:
+      213: -378805714916284175
+    second: Battle Stage Bombs_42
+  - first:
+      213: -6906405307509880389
+    second: Battle Stage Bombs_43
+  - first:
+      213: -7955671012413459838
+    second: Battle Stage Bombs_44
+  - first:
+      213: -6288609614376399252
+    second: Battle Stage Bombs_45
+  - first:
+      213: -8681109033548240391
+    second: Battle Stage Bombs_46
+  - first:
+      213: 7939367806381246867
+    second: Battle Stage Bombs_47
+  - first:
+      213: -3473766724352462123
+    second: Battle Stage Bombs_48
+  - first:
+      213: -2671654910986576322
+    second: Battle Stage Bombs_49
+  - first:
+      213: -7794975411968643095
+    second: Battle Stage Bombs_50
+  - first:
+      213: -850463788384055093
+    second: Battle Stage Bombs_51
+  - first:
+      213: -194085963918726911
+    second: Battle Stage Bombs_52
+  - first:
+      213: -5417723053486470025
+    second: Battle Stage Bombs_53
+  - first:
+      213: -6405630736455614195
+    second: Battle Stage Bombs_54
+  - first:
+      213: -5303788213811599832
+    second: Battle Stage Bombs_55
+  - first:
+      213: -217725356295425096
+    second: Battle Stage Bombs_56
+  - first:
+      213: -6075633156632155244
+    second: Battle Stage Bombs_57
+  - first:
+      213: 143194797645976548
+    second: Battle Stage Bombs_58
+  - first:
+      213: -7508596202805280557
+    second: Battle Stage Bombs_59
+  - first:
+      213: -3091787899148639970
+    second: Battle Stage Bombs_60
+  - first:
+      213: 2433015788397408363
+    second: Battle Stage Bombs_61
+  - first:
+      213: -5458271019377115087
+    second: Battle Stage Bombs_62
+  - first:
+      213: -5778524397037080111
+    second: Battle Stage Bombs_63
+  - first:
+      213: -2835338959117785890
+    second: Battle Stage Bombs_64
+  - first:
+      213: 6598067214385720038
+    second: Battle Stage Bombs_65
+  - first:
+      213: 4263280810023420157
+    second: Battle Stage Bombs_66
+  - first:
+      213: 87559336777670468
+    second: Battle Stage Bombs_67
+  - first:
+      213: 8558963835856928437
+    second: Battle Stage Bombs_68
+  - first:
+      213: -6791754469910811732
+    second: Battle Stage Bombs_69
+  - first:
+      213: 6919169232619853033
+    second: Battle Stage Bombs_70
+  - first:
+      213: -6596855356141763840
+    second: Battle Stage Bombs_71
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Battle Stage Bombs_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196fa73a8a41b0a4a951403e1fccfb76
+      internalID: 337752199696707168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage Bombs_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff62f372d3571f48b04540bb199c01f
+      internalID: -3248612291205812070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage Bombs_2
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f962261d62053904ba61026a3adf9097
+      internalID: -1611901340418702933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage Bombs_3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d594e99ecc5a5504c8dd31743b638fac
+      internalID: 4445410948678579014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage Bombs_4
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54787b36b19122c4a9988f889cd78a23
+      internalID: 2651150669580477827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage Bombs_5
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15765ba3a76f82a409ab171a76f13654
+      internalID: -5003067148246528414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage Bombs_6
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031e5ffe2ad466d4980778765c7b355b
+      internalID: -6303068104294765334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage Bombs_7
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2548711c70ec5694882cb54d33ff238c
+      internalID: 8830176557128269987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage Bombs_8
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac3171bdfdf3fc40bda6bc1ba2d62cc
+      internalID: -9169142808926432843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage Bombs_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736a5f176e92c1e49b02280add07e6a4
+      internalID: -8087961424236927219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage Bombs_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fadd2337736832247879db91d13fc937
+      internalID: -1509842044187201126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage Bombs_11
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1b20f63e17aad458a064173bcb96ba
+      internalID: -3334561344721026235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage Bombs_12
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c250f4520142ca14780cf4c8982f2bb6
+      internalID: -7308996355169376564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage Bombs_13
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1171432bc2f20c14f8f18b5c0cbea271
+      internalID: -6716925024620462739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage Bombs_14
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e4fc4f24acdc947a7c79116c7d433e
+      internalID: -4186248107564177822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage Bombs_15
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b57a66f7a27bc459220df9211b007d
+      internalID: 4322527450508674142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage Bombs_16
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc7fe7ac19f54343b20129980ed0b3e
+      internalID: 4801998301986276151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage Bombs_17
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51d97a5b4eb6324db3503a3de0378bd
+      internalID: 1200056006787087930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage Bombs_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 87
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edce928d04a0ea143ab4f96343a55526
+      internalID: 29012134436902111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage Bombs_19
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86bb3f4be5f2b1d42a3679351edbddb1
+      internalID: 1371695981452492205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage Bombs_20
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9e40f04a3201c43b47dd9f5bcd4d8e
+      internalID: 6969785505552896723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage Bombs_21
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c401a026e8416664fbe1173189ee2e09
+      internalID: 5184957578189515169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage Bombs_22
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17c801254c6c0346a06acf4ac7eed53
+      internalID: 2023435377501043321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage Bombs_23
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2477bf45956097f4da1e41c8c0071dad
+      internalID: 8448791606935244083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage Bombs_24
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b2e96b8eaed7344b9dfcd0212ec892
+      internalID: 2177114635360889035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage Bombs_25
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31aa70ef56877d440b603fe589feea1b
+      internalID: 4495992088583615220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage Bombs_26
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc08cb1f33c51d4a8f2a631fa3e87fe
+      internalID: 3641368664184963050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage Bombs_27
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0387c79364f853a4f82c95d38f89639a
+      internalID: 6791450493861679232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage Bombs_28
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69c4bc3a69b80942bb41e5a2ccbfc6c
+      internalID: -5755814712379349887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage Bombs_29
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b3409480864104aa9ae98c6b6dbe17
+      internalID: -6688757321976579583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage Bombs_30
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8a8f95310b1ce43be7b020e209cf04
+      internalID: -8374178098209703817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage Bombs_31
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66fc9718f3159f64d85854ca4310945a
+      internalID: -8964978366275925890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage Bombs_32
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119670a05be5f304cb874e0e6b57a28c
+      internalID: 1740994598074918614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage Bombs_33
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c0db919f0dcd54eac6d649e86fe571
+      internalID: -5749454503048531689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage Bombs_34
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd92f45177b0404dbd09ce267d92ad0
+      internalID: -6964574265459305816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage Bombs_35
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8f784e2aa068242af5854c084210c3
+      internalID: 2133776803670190277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage Bombs_36
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13918daa0d62964587ad161466d1a54
+      internalID: -4395358799111481851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage Bombs_37
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775c4e07dfa25d94bb6365d088dc49ef
+      internalID: 680106161859793218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage Bombs_38
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2095bb941cd888540b0c9ed975b42420
+      internalID: -2059551165793962973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage Bombs_39
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df48caf26997ca34aa63c77f7b10b977
+      internalID: 8877174712620456607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage Bombs_40
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7472ab0fa9c43b44a63ad5aab687f8e
+      internalID: -8169213486019940794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage Bombs_41
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf4b9d11c6737f4baa5a1515a1fbb06
+      internalID: -820473180795196269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage Bombs_42
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b76781f2327424594c9335d0034fda
+      internalID: -378805714916284175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage Bombs_43
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d253a107009a694c9a67ac9a3ad1472
+      internalID: -6906405307509880389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage Bombs_44
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2e2fd8c05c29f458d8f674be6c6301
+      internalID: -7955671012413459838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage Bombs_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 38
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b347e4aba202c4ca4ba7f0a0701323
+      internalID: -6288609614376399252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage Bombs_46
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 38
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d863c4e6b3d6a9c45abea7390621cd71
+      internalID: -8681109033548240391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage Bombs_47
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 38
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5006904ea2b134eaf0fbb5894c6fa1
+      internalID: 7939367806381246867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage Bombs_48
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 38
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1861c32847e778544800d26948d18cda
+      internalID: -3473766724352462123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage Bombs_49
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 38
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475631d032b09f247a6cadc61d3ba39d
+      internalID: -2671654910986576322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage Bombs_50
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 38
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6436ddddc5d0fe9418012ecb36ce8c75
+      internalID: -7794975411968643095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage Bombs_51
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 38
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029e5dd0468d1db4883be5c97e9ff224
+      internalID: -850463788384055093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage Bombs_52
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 38
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6fae2c50608ab4fa3a3049cc03d9d5
+      internalID: -194085963918726911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage Bombs_53
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 38
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98d4ad3507b8c141b7c2902edfc0a45
+      internalID: -5417723053486470025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage Bombs_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11776cb4ea55a7841aac3c2efb4f75e1
+      internalID: -6405630736455614195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage Bombs_55
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faac49594e354844db0fa379a3acff74
+      internalID: -5303788213811599832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage Bombs_56
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aacc2e2ec76877c4ab0d4728978ba1a3
+      internalID: -217725356295425096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage Bombs_57
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985d0c40097f1c642abb3e6e09318113
+      internalID: -6075633156632155244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage Bombs_58
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43075aba4f60db04a90b65536759e81a
+      internalID: 143194797645976548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage Bombs_59
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9392d23ad9b2a34db0ba73200649adf
+      internalID: -7508596202805280557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage Bombs_60
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e96f95682e76b74898517a55bb18d74
+      internalID: -3091787899148639970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage Bombs_61
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec9bc2d608c8ff49a82538914792a6c
+      internalID: 2433015788397408363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage Bombs_62
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce351f121ad0931479ac38f2b08716ef
+      internalID: -5458271019377115087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage Bombs_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c4b2f34f0faa74aabbf8497e700244
+      internalID: -5778524397037080111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage Bombs_64
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111b0d755c6ddea42adac20d2bf00304
+      internalID: -2835338959117785890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage Bombs_65
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42fe75306ebfc441a5cb0acc9ebad71
+      internalID: 6598067214385720038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage Bombs_66
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eeea3ce2139a0847bd18acb93492057
+      internalID: 4263280810023420157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage Bombs_67
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec189dbda7378184197f2a72ad0f016f
+      internalID: 87559336777670468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage Bombs_68
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d9793e1f796604bbca41216e6128db
+      internalID: 8558963835856928437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage Bombs_69
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f876ce6ba4f9d4db70b43305af9914
+      internalID: -6791754469910811732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage Bombs_70
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1e4d24bd832b148b18ee47f1ecc85f
+      internalID: 6919169232619853033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage Bombs_71
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 0
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.8569565, y: -0.06920025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa90d879e79a164d8a983b52c33de00
+      internalID: -6596855356141763840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

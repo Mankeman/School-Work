@@ -1,0 +1,1831 @@
+fileFormatVersion: 2
+guid: 7d0e9a13f37be7945a6bdab97b205a03
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1218047342871416925
+    second: BattleStage1ForSure_0
+  - first:
+      213: 3038193626587554489
+    second: BattleStage1ForSure_1
+  - first:
+      213: 4560796527264480364
+    second: BattleStage1ForSure_2
+  - first:
+      213: -6066547951075343808
+    second: BattleStage1ForSure_3
+  - first:
+      213: 6982089613492153432
+    second: BattleStage1ForSure_4
+  - first:
+      213: -347398165716864893
+    second: BattleStage1ForSure_5
+  - first:
+      213: 6539244392067562079
+    second: BattleStage1ForSure_6
+  - first:
+      213: -8266428738381521369
+    second: BattleStage1ForSure_7
+  - first:
+      213: 8182297871706372593
+    second: BattleStage1ForSure_8
+  - first:
+      213: 6592173162373788376
+    second: BattleStage1ForSure_9
+  - first:
+      213: -3132781548266810739
+    second: BattleStage1ForSure_10
+  - first:
+      213: 7333568581295236334
+    second: BattleStage1ForSure_11
+  - first:
+      213: -1690368247875992997
+    second: BattleStage1ForSure_12
+  - first:
+      213: 3675507326464768091
+    second: BattleStage1ForSure_13
+  - first:
+      213: -5583589335400240293
+    second: BattleStage1ForSure_14
+  - first:
+      213: 4364717274623852870
+    second: BattleStage1ForSure_15
+  - first:
+      213: -2380762662710975786
+    second: BattleStage1ForSure_16
+  - first:
+      213: -1598939501819373243
+    second: BattleStage1ForSure_17
+  - first:
+      213: 3489472140495483425
+    second: BattleStage1ForSure_18
+  - first:
+      213: 6822883462227950757
+    second: BattleStage1ForSure_19
+  - first:
+      213: 4984472637888046453
+    second: BattleStage1ForSure_20
+  - first:
+      213: -2479736914879912369
+    second: BattleStage1ForSure_21
+  - first:
+      213: 5792992589830842590
+    second: BattleStage1ForSure_22
+  - first:
+      213: -3378418318461704125
+    second: BattleStage1ForSure_23
+  - first:
+      213: -3996204282487288881
+    second: BattleStage1ForSure_24
+  - first:
+      213: 6151573256048829623
+    second: BattleStage1ForSure_25
+  - first:
+      213: 9129799562537118987
+    second: BattleStage1ForSure_26
+  - first:
+      213: -6987306494486210363
+    second: BattleStage1ForSure_27
+  - first:
+      213: 6807107565664846567
+    second: BattleStage1ForSure_28
+  - first:
+      213: -2951677382442443816
+    second: BattleStage1ForSure_29
+  - first:
+      213: -163998395237666747
+    second: BattleStage1ForSure_30
+  - first:
+      213: -8773607814239547879
+    second: BattleStage1ForSure_31
+  - first:
+      213: -5035265727075810381
+    second: BattleStage1ForSure_32
+  - first:
+      213: -2785095040797027414
+    second: BattleStage1ForSure_33
+  - first:
+      213: -7676663885846025342
+    second: BattleStage1ForSure_34
+  - first:
+      213: -3193640694642986709
+    second: BattleStage1ForSure_35
+  - first:
+      213: 4863445075631430604
+    second: BattleStage1ForSure_36
+  - first:
+      213: 1860699300788938057
+    second: BattleStage1ForSure_37
+  - first:
+      213: 8564114540378495872
+    second: BattleStage1ForSure_38
+  - first:
+      213: -2693458456445555334
+    second: BattleStage1ForSure_39
+  - first:
+      213: 9070645850258126833
+    second: BattleStage1ForSure_40
+  - first:
+      213: 3852764293533184927
+    second: BattleStage1ForSure_41
+  - first:
+      213: 7656790210156395734
+    second: BattleStage1ForSure_42
+  - first:
+      213: 3455797369936754158
+    second: BattleStage1ForSure_43
+  - first:
+      213: -2307147891118758360
+    second: BattleStage1ForSure_44
+  - first:
+      213: 3990379053370772695
+    second: BattleStage1ForSure_45
+  - first:
+      213: 7556007091874679383
+    second: BattleStage1ForSure_46
+  - first:
+      213: -7685093624068215129
+    second: BattleStage1ForSure_47
+  - first:
+      213: 3058991633148179788
+    second: BattleStage1ForSure_48
+  - first:
+      213: 338927727220224625
+    second: BattleStage1ForSure_49
+  - first:
+      213: -8733318869694912462
+    second: BattleStage1ForSure_50
+  - first:
+      213: 4603855241149884013
+    second: BattleStage1ForSure_51
+  - first:
+      213: -2730044173929515253
+    second: BattleStage1ForSure_52
+  - first:
+      213: 1621822708029209406
+    second: BattleStage1ForSure_53
+  - first:
+      213: -8966164132786895
+    second: BattleStage1ForSure_54
+  - first:
+      213: -207696856437176275
+    second: BattleStage1ForSure_55
+  - first:
+      213: 1246471304840627436
+    second: BattleStage1ForSure_56
+  - first:
+      213: -7973768120110927343
+    second: BattleStage1ForSure_57
+  - first:
+      213: -6311121240096253238
+    second: BattleStage1ForSure_58
+  - first:
+      213: 3854410426055915272
+    second: BattleStage1ForSure_59
+  - first:
+      213: -843285289992861653
+    second: BattleStage1ForSure_60
+  - first:
+      213: -5912237852938215600
+    second: BattleStage1ForSure_61
+  - first:
+      213: 771580888199629070
+    second: BattleStage1ForSure_62
+  - first:
+      213: -4373161307046393602
+    second: BattleStage1ForSure_63
+  - first:
+      213: 7674107341727340457
+    second: BattleStage1ForSure_64
+  - first:
+      213: -9104552567116970101
+    second: BattleStage1ForSure_65
+  - first:
+      213: -4606835543242633348
+    second: BattleStage1ForSure_66
+  - first:
+      213: 2283607711564150119
+    second: BattleStage1ForSure_67
+  - first:
+      213: 8937702433801095758
+    second: BattleStage1ForSure_68
+  - first:
+      213: 2058079432091060342
+    second: BattleStage1ForSure_69
+  - first:
+      213: -6790366072778560585
+    second: BattleStage1ForSure_70
+  - first:
+      213: 2507337385738287213
+    second: BattleStage1ForSure_71
+  - first:
+      213: 8856520611198098436
+    second: Battle Stage_0
+  - first:
+      213: -273936127077115947
+    second: Battle Stage_1
+  - first:
+      213: 1281396301867490801
+    second: Battle Stage_2
+  - first:
+      213: -8450380905128217359
+    second: Battle Stage_3
+  - first:
+      213: 1025789488097337734
+    second: Battle Stage_4
+  - first:
+      213: 4792737678145843340
+    second: Battle Stage_9
+  - first:
+      213: 8161604006843312935
+    second: Battle Stage_10
+  - first:
+      213: 1294181340484242575
+    second: Battle Stage_11
+  - first:
+      213: -9003058407522303040
+    second: Battle Stage_12
+  - first:
+      213: 5925698016753453244
+    second: Battle Stage_13
+  - first:
+      213: 4562786698292703991
+    second: Battle Stage_14
+  - first:
+      213: -7742463250999252506
+    second: Battle Stage_15
+  - first:
+      213: 2770979508162888227
+    second: Battle Stage_16
+  - first:
+      213: 3389725915140637854
+    second: Battle Stage_18
+  - first:
+      213: -3079862959800990915
+    second: Battle Stage_19
+  - first:
+      213: -8766218303883479640
+    second: Battle Stage_20
+  - first:
+      213: -3421304677567975282
+    second: Battle Stage_21
+  - first:
+      213: -1767741503444442819
+    second: Battle Stage_22
+  - first:
+      213: -3074274869575738294
+    second: Battle Stage_23
+  - first:
+      213: 1623197485682438235
+    second: Battle Stage_24
+  - first:
+      213: 2548900039259709845
+    second: Battle Stage_25
+  - first:
+      213: -7216251237262150535
+    second: Battle Stage_27
+  - first:
+      213: 3928334031691706137
+    second: Battle Stage_28
+  - first:
+      213: 2603084969508069282
+    second: Battle Stage_29
+  - first:
+      213: -2091611244360255203
+    second: Battle Stage_30
+  - first:
+      213: 7822916214280679455
+    second: Battle Stage_31
+  - first:
+      213: 523676241344668177
+    second: Battle Stage_32
+  - first:
+      213: 5598551118827476614
+    second: Battle Stage_33
+  - first:
+      213: -5648917194237197530
+    second: Battle Stage_34
+  - first:
+      213: -3646486099655776718
+    second: Battle Stage_36
+  - first:
+      213: -750887186569285135
+    second: Battle Stage_37
+  - first:
+      213: 4983078698595106399
+    second: Battle Stage_38
+  - first:
+      213: 4624944967041320848
+    second: Battle Stage_39
+  - first:
+      213: 3930183462835653004
+    second: Battle Stage_40
+  - first:
+      213: 7125379732037746085
+    second: Battle Stage_41
+  - first:
+      213: 5688410480625480387
+    second: Battle Stage_42
+  - first:
+      213: 4475260625487033336
+    second: Battle Stage_43
+  - first:
+      213: 4997302935148604347
+    second: Battle Stage_45
+  - first:
+      213: 873973797533873313
+    second: Battle Stage_46
+  - first:
+      213: 3046595778265157677
+    second: Battle Stage_47
+  - first:
+      213: -2039045818093993988
+    second: Battle Stage_48
+  - first:
+      213: -8385003723129985777
+    second: Battle Stage_49
+  - first:
+      213: -600673022064599431
+    second: Battle Stage_50
+  - first:
+      213: -2803726639177559397
+    second: Battle Stage_51
+  - first:
+      213: -4548551247438863061
+    second: Battle Stage_52
+  - first:
+      213: 3069028784028352284
+    second: Battle Stage_54
+  - first:
+      213: -6182054682298705216
+    second: Battle Stage_55
+  - first:
+      213: -6064252406995009230
+    second: Battle Stage_56
+  - first:
+      213: -6725228384063890251
+    second: Battle Stage_57
+  - first:
+      213: 1580648141807077366
+    second: Battle Stage_58
+  - first:
+      213: -2193574820347262127
+    second: Battle Stage_59
+  - first:
+      213: -5586716457168529398
+    second: Battle Stage_60
+  - first:
+      213: -3333415097786198636
+    second: Battle Stage_61
+  - first:
+      213: 460017340461961078
+    second: Battle Stage_62
+  - first:
+      213: -2849557198636054996
+    second: Battle Stage_63
+  - first:
+      213: 2097498640965162601
+    second: Battle Stage_64
+  - first:
+      213: -518975912687890124
+    second: Battle Stage_65
+  - first:
+      213: 7740199783319218512
+    second: Battle Stage_66
+  - first:
+      213: 4601983022407213854
+    second: Battle Stage_67
+  - first:
+      213: 188584598507818245
+    second: Battle Stage_68
+  - first:
+      213: 1058997166215753203
+    second: Battle Stage_69
+  - first:
+      213: -4789415393105303335
+    second: Battle Stage_70
+  - first:
+      213: -4536806011012954180
+    second: Battle Stage_71
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: 7
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: 7
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Battle Stage_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5052a7274259fc47a43ae236ba4205a
+      internalID: 8856520611198098436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b54ac4d0ed8cde46a62545d4e3e740a
+      internalID: -273936127077115947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87275c917d025014ead4accd5c51a0c3
+      internalID: 1281396301867490801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f214f3172527646a490610cc5fa431
+      internalID: -8450380905128217359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc95b6168121c94e8cf5fefea5e9e95
+      internalID: 1025789488097337734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7fdf5392e58c624fa88d59d661458b3
+      internalID: 4792737678145843340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c0a2f4e582c314bba5a407772ae2ec
+      internalID: 8161604006843312935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage_11
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce0a0bf6790cc54db171f1c74ed246d
+      internalID: 1294181340484242575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage_12
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec9bbf76b129cc4581242e6aade5c95
+      internalID: -9003058407522303040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage_13
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c2be836a6dcf543b40e96f464b7052
+      internalID: 5925698016753453244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage_14
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3439ef684802e7f419b211071a7b71ab
+      internalID: 4562786698292703991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage_15
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d636f00f2cf69642b6e3c23bb582ca3
+      internalID: -7742463250999252506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage_16
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8856f7e2c1742a04e9b29932a16f7b39
+      internalID: 2770979508162888227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5615f1d0851a1499e7e310a3ac369c
+      internalID: 3389725915140637854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage_19
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4770d711863c843b66f9b82d88e940
+      internalID: -3079862959800990915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage_20
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10048fb2d360b94396022e3ddcd638a
+      internalID: -8766218303883479640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage_21
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b94c3406a985774f96b307ff66f9171
+      internalID: -3421304677567975282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage_22
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e4585e02a150846a4f433cadb36b3f
+      internalID: -1767741503444442819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage_23
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0346e680dec1d458b0e5fda6e3dd22
+      internalID: -3074274869575738294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage_24
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabd0a5ac88cbda4e8e6bd36c8fa794b
+      internalID: 1623197485682438235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage_25
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e129ebe8d87d754a8aba76f9551195c
+      internalID: 2548900039259709845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99912c03f3e349841b3cff33f047ea9f
+      internalID: -7216251237262150535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage_28
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99eb03f578a5354cae6e3ea709c3bac
+      internalID: 3928334031691706137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage_29
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2ebbeb2e100044e9ab57fe6edd6e29
+      internalID: 2603084969508069282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage_30
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa04111fb8a67644fa35e2292eb91765
+      internalID: -2091611244360255203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage_31
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194ccd1ed9df0a642a6e41b03c691227
+      internalID: 7822916214280679455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage_32
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baef56958ad01c84e9ac1b54d20bff7e
+      internalID: 523676241344668177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage_33
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5186179e6ebfc347acbfb7566ebdff8
+      internalID: 5598551118827476614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage_34
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f166818b3167bb4e8e4fdf900ec00ef
+      internalID: -5648917194237197530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98991a599374d6242a60a3af618fb625
+      internalID: -3646486099655776718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage_37
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a000f66800379ed4f8cd1572bfeded22
+      internalID: -750887186569285135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage_38
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3329c5a818ed8124a912c730fd0435a9
+      internalID: 4983078698595106399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage_39
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5a19ce8e3ac3740adba2e13a2c0e42
+      internalID: 4624944967041320848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage_40
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df1558daa272b64c9d1a1358176db8a
+      internalID: 3930183462835653004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage_41
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431321f2ff31b744b926fa8551cc2a55
+      internalID: 7125379732037746085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage_42
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39a49ff96ab7f147a1d00f73ae80627
+      internalID: 5688410480625480387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage_43
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe549e003675324c898be943136580a
+      internalID: 4475260625487033336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e816a00c5ac4a42a19e3799afd48e7
+      internalID: 4997302935148604347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage_46
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34d564062046554f88c96b9b7ae0a18
+      internalID: 873973797533873313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage_47
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2a5e6e38ef4e64eb81a3bdf7b8fac8
+      internalID: 3046595778265157677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage_48
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae71e0a27182d146b4bcce727c42efc
+      internalID: -2039045818093993988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage_49
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13a2a69ab6698041a334e382c10ae37
+      internalID: -8385003723129985777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage_50
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19229df7a59f2fd46978fb9a1a83ac87
+      internalID: -600673022064599431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage_51
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1293f21fded142f4a8f3f1598a39d187
+      internalID: -2803726639177559397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage_52
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b64da71e52567409bccff6bf6dc474
+      internalID: -4548551247438863061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7130d3d8225f3a342bd4fc5e30416f0b
+      internalID: 3069028784028352284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage_55
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d63c24fda2f5a84297d17f591f5f689
+      internalID: -6182054682298705216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage_56
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58dc9aba2db18064d801d275af11ed42
+      internalID: -6064252406995009230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage_57
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b138a308cbaa3eb43ba244050b93e583
+      internalID: -6725228384063890251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage_58
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f754e251aa66b844cbd49cd9eb0939de
+      internalID: 1580648141807077366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage_59
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5ab9fbcc3f7cf439b379af86d27c83
+      internalID: -2193574820347262127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage_60
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c037ff8940e8cee42926bf2d563f691c
+      internalID: -5586716457168529398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage_61
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc379a016489f54892a11db5d07b14d
+      internalID: -3333415097786198636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage_62
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106954ec92d7ed145ac701e20014a865
+      internalID: 460017340461961078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58bc810d2c81394ab76064824d84429
+      internalID: -2849557198636054996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage_64
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b737a9099f2e843b84fd4c6eb2308e
+      internalID: 2097498640965162601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage_65
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2459fda6a42ad224aa79b88d8f7b5d22
+      internalID: -518975912687890124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage_66
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28249b5aafd83145943d7317615704d
+      internalID: 7740199783319218512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage_67
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dfdcf4753c3c4c4e9b2338f6932bc52
+      internalID: 4601983022407213854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage_68
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae4a38032f323d4983d8bbd36df842e
+      internalID: 188584598507818245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage_69
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0958d9fb4bedc9418a7da9f3470fa64
+      internalID: 1058997166215753203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage_70
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3927a75e2491f744a0c82c0902f4644
+      internalID: -4789415393105303335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Stage_71
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25bfe08d55311f94a9ad466614c29dc7
+      internalID: -4536806011012954180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
