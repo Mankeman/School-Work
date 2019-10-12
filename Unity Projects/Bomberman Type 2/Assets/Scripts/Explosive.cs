@@ -10,18 +10,13 @@ public class Explosive : MonoBehaviour
     public float countdown = .65f;
     public Tilemap tMap;
 
-    public void Explode(Vector2 worldPos)
-    {
-    }
-    void ExplodeCell (Vector3Int cell)
-    {
-    }
-
+    void (Explode){
+        }
     private void Update()
     {
         countdown -= Time.deltaTime;
 
-
+        
 
         if (countdown <= 0f)
         {
