@@ -9,7 +9,7 @@ public class Bomb : MonoBehaviour
     public LayerMask levelMask;
     public float countdown = 2f;
 
-
+    
 
     void Update()
     {
@@ -20,7 +20,5 @@ public class Bomb : MonoBehaviour
             Destroy(gameObject);
             Instantiate(explosionPrefab, transform.position, Quaternion.identity);
         }
-
-
     }
 }

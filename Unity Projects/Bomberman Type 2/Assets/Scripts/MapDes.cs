@@ -15,19 +15,31 @@ public class MapDes : MonoBehaviour
         Vector3Int originCell = tMap.WorldToCell(worldPos);
 
         ExplodeCell(originCell);
-        ExplodeCell(originCell + new Vector3Int(1, 0, 0));
-        ExplodeCell(originCell + new Vector3Int(-1, 0, 0));
-        ExplodeCell(originCell + new Vector3Int(0, -1, 0));
-        ExplodeCell(originCell + new Vector3Int(0, 1, 0));
+        if(ExplodeCell(originCell + new Vector3Int(1, 0, 0)))
+        {
+            return;
+        }
+        if(ExplodeCell(originCell + new Vector3Int(-1, 0, 0)))
+        {
+            return;
+        }
+        if(ExplodeCell(originCell + new Vector3Int(0, -1, 0)))
+        {
+            return;
+        }
+        if(ExplodeCell(originCell + new Vector3Int(0, 1, 0)))
+        {
+            return;
+        }
     }
 
-    void ExplodeCell(Vector3Int cell)
+    bool ExplodeCell(Vector3Int cell)
     {
 
         Tile tile = tMap.GetTile<Tile>(cell);
         if (tile == wallTile)
         {
-            return;
+            return false;
         }
         if (tile == destructTile)
         {
@@ -36,5 +48,6 @@ public class MapDes : MonoBehaviour
         Vector3 pos = tMap.GetCellCenterWorld(cell);
         Instantiate(explosPrefab, pos, Quaternion.identity);
         Destroy(gameObject);
+        return true;
     }
 }
