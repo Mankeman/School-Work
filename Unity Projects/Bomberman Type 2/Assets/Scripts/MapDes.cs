@@ -6,28 +6,34 @@ using UnityEngine.Tilemaps;
 public class MapDes : MonoBehaviour
 {
     public Tilemap tMap;
-    public Tile wallTile;
-    public Tile destructTile;
+    public Tilemap wallTile;
+    public Tilemap destructTile;
     public GameObject explosPrefab;
+    public GameObject tilePrefab;
 
     public void Explode(Vector2 worldPos)
     {
         Vector3Int originCell = tMap.WorldToCell(worldPos);
 
         ExplodeCell(originCell);
-        if(ExplodeCell(originCell + new Vector3Int(1, 0, 0)))
+        if (ExplodeCell(originCell + new Vector3Int(1, 0, 0)))
         {
-            return;
+            checked
+            {
+
+            }
+            
         }
-        if(ExplodeCell(originCell + new Vector3Int(-1, 0, 0)))
+
+        if (ExplodeCell(originCell + new Vector3Int(0, 1, 0)))
         {
-            return;
         }
-        if(ExplodeCell(originCell + new Vector3Int(0, -1, 0)))
+
+        if (ExplodeCell(originCell + new Vector3Int(-1, 0, 0)))
         {
-            return;
         }
-        if(ExplodeCell(originCell + new Vector3Int(0, 1, 0)))
+
+        if (ExplodeCell(originCell + new Vector3Int(0, -1, 0)))
         {
             return;
         }
@@ -39,7 +45,7 @@ public class MapDes : MonoBehaviour
         Tile tile = tMap.GetTile<Tile>(cell);
         if (tile == wallTile)
         {
-            return false;
+            Instantiate(tilePrefab, transform.position, Quaternion.identity);
         }
         if (tile == destructTile)
         {
@@ -47,7 +53,9 @@ public class MapDes : MonoBehaviour
         }
         Vector3 pos = tMap.GetCellCenterWorld(cell);
         Instantiate(explosPrefab, pos, Quaternion.identity);
-        Destroy(gameObject);
         return true;
+        
     }
+    
+
 }

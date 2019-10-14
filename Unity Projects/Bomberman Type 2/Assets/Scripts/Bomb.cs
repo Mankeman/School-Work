@@ -17,8 +17,9 @@ public class Bomb : MonoBehaviour
 
         if (countdown <= 0f)
         {
-            Destroy(gameObject);
+            FindObjectOfType<MapDes>().Explode(transform.position);
             Instantiate(explosionPrefab, transform.position, Quaternion.identity);
+            Destroy(gameObject);
         }
     }
 }
