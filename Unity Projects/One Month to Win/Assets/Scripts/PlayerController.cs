@@ -15,6 +15,8 @@ public class PlayerController : MonoBehaviour
 
     void Start(){
         anim = GetComponent<Animator>();
+
+        DontDestroyOnLoad(transform.gameObject);
     }
 
     void Update()

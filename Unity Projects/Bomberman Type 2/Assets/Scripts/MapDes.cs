@@ -18,11 +18,6 @@ public class MapDes : MonoBehaviour
         ExplodeCell(originCell);
         if (ExplodeCell(originCell + new Vector3Int(1, 0, 0)))
         {
-            checked
-            {
-
-            }
-            
         }
 
         if (ExplodeCell(originCell + new Vector3Int(0, 1, 0)))
@@ -35,7 +30,6 @@ public class MapDes : MonoBehaviour
 
         if (ExplodeCell(originCell + new Vector3Int(0, -1, 0)))
         {
-            return;
         }
     }
 
@@ -46,15 +40,16 @@ public class MapDes : MonoBehaviour
         if (tile == wallTile)
         {
             Instantiate(tilePrefab, transform.position, Quaternion.identity);
+            
         }
-        if (tile == destructTile)
+        else if (tile == destructTile)
         {
-            tMap.SetTile(cell, null);
+            return false;
         }
+       
         Vector3 pos = tMap.GetCellCenterWorld(cell);
         Instantiate(explosPrefab, pos, Quaternion.identity);
         return true;
-        
     }
     
 
