@@ -1,0 +1,27 @@
+﻿body {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #000;
+}
+h1 {
+	text-decoration: none;
+	text-align: left;
+}
+.auto-style1 {
+	border-width: 0px;
+}
+h5 {
+	text-decoration: underline;
+	text-align: right;
+}
+h2 {
+	font-size: x-large;
+	color: black;
+}
+#copyright {
+	font-size: x-small;
+}
+#allPage {
+	width: 980px;
+	margin-right: auto;
+	margin-left: auto;
+}

@@ -1,0 +1,54 @@
+﻿body {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #818181;
+	background-color: lavender;
+	width: 980px;
+	margin-right: auto;
+	margin-left: auto;
+}
+h2 {
+	font-family: "Times New Roman", Times, serif;
+	color: #6B4288;
+	font-variant: small-caps;
+	text-transform: capitalize;
+	background-color: #8FE13E;
+}
+thead {
+	font-family: "Times New Roman", Times, serif;
+	color: #6B4288;
+	background-color: #8FE13E;
+}
+ul {
+	list-style-image: url('Images/aball.gif');
+}
+h3 {
+	color: #6B4288;
+}
+td {
+	vertical-align: top;
+}
+#contact {
+	vertical-align: bottom;
+	text-align: right;
+}
+a {
+	text-decoration: none;
+	color: #6B4288;
+}
+a:hover {
+	text-decoration: underline overline;
+	background-color: #8FE13E;
+}
+.whiteRow {
+	background-color: white;
+}
+table {
+	border-spacing: 0px;
+}
+#fonts {
+	border: medium dotted #818181;
+}
+tfoot {
+	font-size: x-small;
+	background-color: #8FE13E;
+}
