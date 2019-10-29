@@ -6,6 +6,7 @@ public class BombSpawner : MonoBehaviour
     public GameObject bomb;
     private GameObject Player1;
 
+    int firePower = 1;
     int numberOfBombs = 1;
 
 

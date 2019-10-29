@@ -25,3 +25,13 @@ h2 {
 	margin-right: auto;
 	margin-left: auto;
 }
+#titleList {
+	font-size: large;
+	background-color: #333333;
+	color: #FFFFFF;
+}
+#content {
+	background-color: #FFFFFF;
+	font-size: medium;
+	color: #000000;
+}
