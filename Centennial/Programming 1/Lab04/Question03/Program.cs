@@ -14,10 +14,10 @@ namespace Question03
             double b = 2;
             double c = 4;
 
-            Console.WriteLine($"Question 1a is {a % b * c == c % b * a}");
-            Console.WriteLine($"Question 1b is {b.a % b * c > c % b * a}");
-            Console.WriteLine($"Question 1c is {b % c * a >= a % c * b}");
-            Console.WriteLine($"Question 1d is {b % c * a != a % c * b}");
+            Console.WriteLine($"Question 3a is {a % b * c == c % b * a}");
+            Console.WriteLine($"Question 3b is {b.a % b * c > c % b * a}");
+            Console.WriteLine($"Question 3c is {b % c * a >= a % c * b}");
+            Console.WriteLine($"Question 3d is {b % c * a != a % c * b}");
 
         }
     }

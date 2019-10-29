@@ -71,104 +71,104 @@ namespace Question04
             position = Convert.ToString(Console.ReadLine());
             position = position.ToUpper();
 
-            Console.WriteLine($"Question 1A is {age = 30}");
-            Console.WriteLine($"Question 1B is {temp = 98.6}");
-            Console.WriteLine($"Question 1C is {height < 72}");
+            Console.WriteLine($"Question 4A is {age = 30}");
+            Console.WriteLine($"Question 4B is {temp = 98.6}");
+            Console.WriteLine($"Question 4C is {height < 72}");
             if (month == 12)
             {
-                Console.WriteLine($"Question 1D is true.");
+                Console.WriteLine($"Question 4D is true.");
             }
             else
             {
-                Console.WriteLine($"Question 1D is false.");
+                Console.WriteLine($"Question 4D is false.");
             }
             if (input == "m")
             {
-                Console.WriteLine($"Question 1E is true.");
+                Console.WriteLine($"Question 4E is true.");
             }
             else
             {
-                Console.WriteLine($"Question 1E is false.");
+                Console.WriteLine($"Question 4E is false.");
             }
             if (age == 30 && height < 72)
             {
-                Console.WriteLine($"Question 1F is true.");
+                Console.WriteLine($"Question 4F is true.");
             }
             else
             {
-                Console.WriteLine($"Question 1F is false.");
+                Console.WriteLine($"Question 4F is false.");
             }
             if (day == 15 && month == 1)
             {
-                Console.WriteLine($"Question 1G is true.");
+                Console.WriteLine($"Question 4G is true.");
             }
             else
             {
-                Console.WriteLine($"Question 1G is false.");
+                Console.WriteLine($"Question 4G is false.");
             }
             if (age > 50 || employment >= 5)
             {
-                Console.WriteLine($"Question 1H is true.");
+                Console.WriteLine($"Question 4H is true.");
             }
             else
             {
-                Console.WriteLine($"Question 1H is false.");
+                Console.WriteLine($"Question 4H is false.");
             }
             if (identNum < 500 && age > 55)
             {
-                Console.WriteLine($"Question 1I is true.");
+                Console.WriteLine($"Question 4I is true.");
             }
             else
             {
-                Console.WriteLine($"Question 1I is false.");
+                Console.WriteLine($"Question 4I is false.");
             }
             if (length > 2 && length < 3)
             {
-                Console.WriteLine($"Question 1J is true.");
+                Console.WriteLine($"Question 4J is true.");
             }
             else
             {
-                Console.WriteLine($"Question 1J is false.");
+                Console.WriteLine($"Question 4J is false.");
             }
             if (age >= 30 && age <= 40)
             {
-                Console.WriteLine($"Question 1K is true.");
+                Console.WriteLine($"Question 4K is true.");
             }
             else
             {
-                Console.WriteLine($"Question 1K is false.");
+                Console.WriteLine($"Question 4K is false.");
             }
             if (age <30 || age >50)
             {
-                Console.WriteLine($"Question 1L is true.");
+                Console.WriteLine($"Question 4L is true.");
             }
             else
             {
-                Console.WriteLine($"Question 1L is false.");
+                Console.WriteLine($"Question 4L is false.");
             }
             if (key == "r")
             {
-                Console.WriteLine($"Question 1M is true.");
+                Console.WriteLine($"Question 4M is true.");
             }
             else
             {
-                Console.WriteLine($"Question 1M is false.");
+                Console.WriteLine($"Question 4M is false.");
             }
             if (province == "O" && tax == "Y")
             {
-                Console.WriteLine($"Question 1N is true.");
+                Console.WriteLine($"Question 4N is true.");
             }
             else
             {
-                Console.WriteLine($"Question 1N is false.");
+                Console.WriteLine($"Question 4N is false.");
             }
             if (age >= 17 && residence == "Y")
             {
-                Console.WriteLine($"Question 1O is true.");
+                Console.WriteLine($"Question 4O is true.");
             }
             else
             {
-                Console.WriteLine($"Question 1O is false.");
+                Console.WriteLine($"Question 4O is false.");
             }
             if (position == "MANAGER")
             {

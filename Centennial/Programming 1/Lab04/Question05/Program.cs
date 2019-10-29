@@ -30,7 +30,7 @@ namespace Question05
             double length;
             int factor = 999999999;
 
-            Console.WriteLine("Question 1a: What is the degree of the angle?");
+            Console.WriteLine("Question 5a: What is the degree of the angle?");
             angle = Convert.ToDouble(Console.ReadLine());
 
             if (angle == 90)
@@ -42,7 +42,7 @@ namespace Question05
                 Console.WriteLine($"The angle is not a right angle.");
             }
 
-            Console.WriteLine("Question 1b: What is the temperature?");
+            Console.WriteLine("Question 5b: What is the temperature?");
             temp = Convert.ToDouble(Console.ReadLine());
 
             if (temp > 100)
@@ -54,7 +54,7 @@ namespace Question05
                 Console.WriteLine($"Below the boiling point of water.");
             }
 
-            Console.WriteLine("Question 1c: Student score?");
+            Console.WriteLine("Question 5c: Student score?");
             studentScore = Convert.ToDouble(Console.ReadLine());
 
             if (studentScore >= 70)
@@ -66,7 +66,7 @@ namespace Question05
                 Console.WriteLine($"Fail.");
             }
 
-            Console.WriteLine("Question 1d: What is the temperature?");
+            Console.WriteLine("Question 5d: What is the temperature?");
             temp = Convert.ToDouble(Console.ReadLine());
 
             if (temp > 98.2 || temp <= 100.2)
@@ -78,7 +78,7 @@ namespace Question05
                 Console.WriteLine($"Not Normal.");
             }
 
-            Console.WriteLine("Question 1e: Number?");
+            Console.WriteLine("Question 5e: Number?");
             number = Convert.ToDouble(Console.ReadLine());
 
             if (number > 0)
@@ -90,7 +90,7 @@ namespace Question05
                 Console.WriteLine($"{number + -number}");
             }
 
-            Console.WriteLine("Question 1f: Slope?");
+            Console.WriteLine("Question 5f: Slope?");
             slope = Convert.ToDouble(Console.ReadLine());
 
             if (slope < 0.5 || slope > 0)
@@ -102,7 +102,7 @@ namespace Question05
                 Console.WriteLine($"Below the boiling point of water.");
             }
 
-            Console.WriteLine("Question 1g: Number 1?");
+            Console.WriteLine("Question 5g: Number 1?");
             num1 = Convert.ToDouble(Console.ReadLine());
 
             Console.WriteLine("Number 2?");
@@ -117,7 +117,7 @@ namespace Question05
                 Console.WriteLine($"The answer is {(num1 - num2) / 2.0}.");
             }
 
-            Console.WriteLine("Question 1h: Temperature 1?");
+            Console.WriteLine("Question 5h: Temperature 1?");
             temp1 = Convert.ToDouble(Console.ReadLine());
 
             Console.WriteLine("Temperature 2?");
@@ -132,7 +132,7 @@ namespace Question05
                 Console.WriteLine($"The answer is {temp1 -temp2}.");
             }
 
-            Console.WriteLine("Question 1i: x value?");
+            Console.WriteLine("Question 5i: x value?");
             x = Convert.ToDouble(Console.ReadLine());
 
             Console.WriteLine("y value?");
@@ -147,7 +147,7 @@ namespace Question05
                 p = Convert.ToDouble(Console.ReadLine());
             }
 
-            Console.WriteLine("Question 1j: Distance?");
+            Console.WriteLine("Question 5j: Distance?");
             dist = Convert.ToDouble(Console.ReadLine());
 
             if (dist > 20 && dist < 35)
@@ -156,7 +156,7 @@ namespace Question05
                 intVarTime = Convert.ToDouble(Console.ReadLine());
             }
 
-            Console.WriteLine("Question 1k: Hours?");
+            Console.WriteLine("Question 5k: Hours?");
             hours = Convert.ToDouble(Console.ReadLine());
 
             if (hours < 40)
@@ -168,7 +168,7 @@ namespace Question05
                 Console.WriteLine($"{320 + (hours - 40) *12}");
             }
 
-            Console.WriteLine("Question 1L: Shape? (R for rectangle, C for circle, T for triangle)");
+            Console.WriteLine("Question 5L: Shape? (R for rectangle, C for circle, T for triangle)");
             shape = Convert.ToString(Console.ReadLine());
             shape = shape.ToLower();
 

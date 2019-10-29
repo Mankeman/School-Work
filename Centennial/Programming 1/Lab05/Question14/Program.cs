@@ -95,7 +95,7 @@ namespace Question14
             {
                 Console.WriteLine($"Congratulations! You have won {100:c}.");
             }
-            else if (points == 2 || points == 5)
+            else if (points == 2 || points == 5 ||)
             {
                 Console.WriteLine($"Congratulations! You have won {10:c}.");
             }

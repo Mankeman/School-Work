@@ -64,6 +64,9 @@ namespace Question15
                     newTotal = eachPay * 20;
                     Console.WriteLine($"You must make twenty (20) payments. Each payment amount is {eachPay:c}. The fee for the season is {newTotal:c}.");
                     break;
+                default:
+                    Console.WriteLine("Error with # of payment.");
+                    break;
             }
 
         }
