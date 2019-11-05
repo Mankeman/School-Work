@@ -9,30 +9,22 @@ public class Bomb : MonoBehaviour
     public GameObject explosionPrefab;
     public LayerMask levelMask;
     public int firePower;
-    public float countdown = 2f;
+    private float countdown = 2;
 
     void Start()
     {
+        Invoke("Explode", countdown);
     }
 
-    void Update()
+    public void Explode()
     {
-        countdown -= Time.deltaTime;
-
-        if (countdown <= 0f)
-        {
-            //center fire
             Instantiate(explosionPrefab, transform.position, Quaternion.identity);
 
-            //create rest of fire
             for (int i = 0; i <= firePower; i++)
             {
                 SpawnFire(i + 1);
             }
-                
-            
             Destroy(gameObject);
-        }
     }
 
     private void SpawnFire(int offset)

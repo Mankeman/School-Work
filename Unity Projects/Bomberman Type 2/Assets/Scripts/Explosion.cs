@@ -11,24 +11,36 @@ public class Explosion : MonoBehaviour
     public Tilemap wallTile;
     public Tilemap destructTile;
     public GameObject tilePrefab;
+    public GameObject explosionPrefab;
 
-
-    private void Start()
+    public bool GetTileData(Vector3Int position, ITilemap tilemap, ref TileData tileData)
     {
-
-        if (gameObject == destructTile)
+        if (destructTile.GetTile<Tile>(position) == true)
         {
             Instantiate(tilePrefab, transform.position, Quaternion.identity);
             Destroy(destructTile);
-            Destroy(gameObject);
+            Destroy(explosionPrefab);
         }
-        else if (gameObject == wallTile)
+        else
         {
-           Destroy(gameObject,0.01f);
+           Destroy(gameObject);
+        }
+        return true;
+    }
+    public void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.gameObject.GetComponent<Explosion>() != null)
+        {
+            return;
+        }
+        else if (collision.gameObject.GetComponent<Bomb>() != null)
+        {
+            collision.gameObject.GetComponent<Bomb>().Explode();
         }
     }
     private void Update()
     {
+        
         cDown -= Time.deltaTime;
         if (cDown <= 0f)
         {

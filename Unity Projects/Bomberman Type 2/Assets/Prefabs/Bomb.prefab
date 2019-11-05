@@ -91,11 +91,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 36737d49c1836d64b859a5580f7772dc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  explosionPrefab: {fileID: 5112969396757811581, guid: c1ae9d74ac5ccb4409b72ffe06a7f90c,
+  explosionPrefab: {fileID: 7579699530957396650, guid: c1ae9d74ac5ccb4409b72ffe06a7f90c,
     type: 3}
   levelMask:
     serializedVersion: 2
     m_Bits: 256
+  firePower: 0
   countdown: 2
 --- !u!212 &-4928738837716868973
 SpriteRenderer:

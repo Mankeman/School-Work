@@ -4,18 +4,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Question05
+namespace Question06
 {
     class Program
     {
         static void Main(string[] args)
         {
-            int number = 10;
+            int number = 20;
             do
             {
-                if (number % 7 == 0)
+                if (number % 3 == 0)
                 {
-                    Console.WriteLine($"*{number}");
+                    Console.WriteLine();
                 }
                 else
                 {
@@ -23,7 +23,7 @@ namespace Question05
                 }
                 number++;
 
-            } while (number < 41);
+            } while (number < 61);
         }
     }
 }

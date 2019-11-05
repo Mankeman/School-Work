@@ -12,12 +12,11 @@ public class BombSpawner : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetButtonDown("Jump") && numberOfBombs >= 1)
+        if (Input.GetButtonDown("Jump") && numberOfBombs == 1)
         {
             GameObject newObj = Instantiate(bomb, transform.position, Quaternion.identity);
             newObj.transform.position = new Vector3(Mathf.RoundToInt(newObj.transform.position.x), Mathf.RoundToInt(newObj.transform.position.y - 0.3f), Mathf.RoundToInt(newObj.transform.position.z));
             numberOfBombs--;
-            Invoke("AddBomb", 1);
         }
     }
 
