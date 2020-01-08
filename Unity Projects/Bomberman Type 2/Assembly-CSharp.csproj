@@ -63,10 +63,25 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Bomb.cs" />
-    <Compile Include="Assets\Scripts\BombSpawner.cs" />
+    <Compile Include="Assets\Scripts\BombSpawnerBlack.cs" />
+    <Compile Include="Assets\Scripts\BombSpawnerBlue.cs" />
+    <Compile Include="Assets\Scripts\BombSpawnerOrange.cs" />
+    <Compile Include="Assets\Scripts\BombSpawnerWhite.cs" />
     <Compile Include="Assets\Scripts\Explosion.cs" />
+    <Compile Include="Assets\Scripts\ExplosionPowerUp.cs" />
+    <Compile Include="Assets\Scripts\ExtraBombPowerup.cs" />
+    <Compile Include="Assets\Scripts\KickPowerup.cs" />
     <Compile Include="Assets\Scripts\MapDesctruction.cs" />
-    <Compile Include="Assets\Scripts\PlayerController.cs" />
+    <Compile Include="Assets\Scripts\MaxExplosionPowerup.cs" />
+    <Compile Include="Assets\Scripts\PlayerControllerBlack.cs" />
+    <Compile Include="Assets\Scripts\PlayerControllerBlue.cs" />
+    <Compile Include="Assets\Scripts\PlayerControllerOrange.cs" />
+    <Compile Include="Assets\Scripts\PlayerControllerWhite.cs" />
+    <Compile Include="Assets\Scripts\PowerGlovePowerup.cs" />
+    <Compile Include="Assets\Scripts\RemoteControlPowerup.cs" />
+    <Compile Include="Assets\Scripts\SkullPowerup.cs" />
+    <Compile Include="Assets\Scripts\SpeedPowerUp.cs" />
+    <Compile Include="Assets\Scripts\TileExplosion.cs" />
     <Compile Include="Assets\Tiled2Unity\Scripts\Runtime\CircleObject.cs" />
     <Compile Include="Assets\Tiled2Unity\Scripts\Runtime\GameObjectExtensions.cs" />
     <Compile Include="Assets\Tiled2Unity\Scripts\Runtime\GPUInstancing.cs" />
@@ -313,6 +328,12 @@
     </Reference>
     <Reference Include="UnityEngine.XRModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.XRModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.iOS.Extensions.Xcode">
+      <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.5f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.iOS.Extensions.Common">
+      <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.5f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Common.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.5f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>

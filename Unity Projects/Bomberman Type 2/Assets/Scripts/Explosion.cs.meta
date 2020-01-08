@@ -3,7 +3,13 @@ guid: 9a7b7645f8ef005498667bfba339dead
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - wallTile: {instanceID: 0}
+  - destructTile: {instanceID: 0}
+  - tilePrefab: {fileID: 6898520298351317318, guid: 5593e51aef6eca94780f9b8dcf6359e3,
+      type: 3}
+  - explosionPrefab: {fileID: 7579699530957396650, guid: c1ae9d74ac5ccb4409b72ffe06a7f90c,
+      type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

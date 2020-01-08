@@ -1,0 +1,24 @@
+﻿body {
+	font-family: Arial, Helvetica, sans-serif;
+	color: grey;
+	font-size: small;
+	background-image: url('Images09/trilliumgradient.png');
+}
+h1 {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-variant: small-caps;
+	text-transform: capitalize;
+	background-image: url('Images09/CC50thAnniversary.jpg');
+	background-repeat: no-repeat;
+	color: #ABBE00;
+	padding-left: 210px;
+	height: 27px;
+	padding-top: 180px;
+}
+.fieldLabel {
+	color: #ABBE00;
+	text-align: right;
+}
+#copyright {
+	font-size: x-small;
+}

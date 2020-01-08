@@ -6,37 +6,31 @@ using UnityEngine.Tilemaps;
 
 public class Bomb : MonoBehaviour
 {
-    public GameObject explosionPrefab;
     public LayerMask levelMask;
+    private float countdown = 2f;
     public int firePower;
-    private float countdown = 2;
+    public float fuse = 2;
 
-    void Start()
+    void Update()
     {
-        Invoke("Explode", countdown);
-    }
+        countdown -= Time.deltaTime;
 
+        if (countdown <= 0f)
+        {
+            FindObjectOfType<MapDesctruction>().Explode(transform.position);
+            Destroy(gameObject);
+        }
+    }
     public void Explode()
     {
-            Instantiate(explosionPrefab, transform.position, Quaternion.identity);
+        for (int i = 0; i < firePower; i++)
+        {
 
-            for (int i = 0; i <= firePower; i++)
-            {
-                SpawnFire(i + 1);
-            }
-            Destroy(gameObject);
+        }
+        Destroy(gameObject);
     }
-
-    private void SpawnFire(int offset)
-    {
-        Instantiate(explosionPrefab, transform.position + new Vector3(1, 0, 0), Quaternion.identity);
-        Instantiate(explosionPrefab, transform.position - new Vector3(1, 0, 0), Quaternion.identity);
-        Instantiate(explosionPrefab, transform.position + new Vector3(0, 1, 0), Quaternion.identity);
-        Instantiate(explosionPrefab, transform.position - new Vector3(0, 1, 0), Quaternion.identity);
-    }
-
     public void OnTriggerExit2D(Collider2D collision)
     {
-        GetComponent<BoxCollider2D>().isTrigger = false;
+        GetComponent<CircleCollider2D>().isTrigger = false;
     }
 }

@@ -10,9 +10,18 @@ namespace Question09
     {
         static void Main(string[] args)
         {
-            long sum;
-            const int min = 1000000;
-            const int max = 2000000;
+            long sum = 0;
+            int min = 1000000;
+
+            do
+            {
+                min+=1;
+                if (min % 3 == 0)
+                {
+                    sum += min;
+                }
+            } while (min < 2000000);
+            Console.WriteLine($"{sum}");
         }
     }
 }

@@ -1,0 +1,14 @@
+﻿var grossPay = 4000;
+var CAATPT = 240;
+var CPP = 43;
+var empIns = 100;
+var fedTax = 288.91;
+var localDues = 15;
+var ontTax = 143.73;
+var pst = 15;
+var retroTax = 60;
+var unionDues = 37;
+var vision = 20;
+var deduction = CAATPT + CPP + empIns + fedTax + localDues + ontTax + pst + retroTax + unionDues + vision;
+var netPay = grossPay - deduction;
+document.write("Your net pay will be $" + netPay);

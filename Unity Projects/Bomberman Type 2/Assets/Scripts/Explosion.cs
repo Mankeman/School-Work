@@ -6,38 +6,9 @@ using UnityEngine.Tilemaps;
 
 public class Explosion : MonoBehaviour
 {
-    private float cDown = 1f;
-    public Tilemap tMap;
-    public Tilemap wallTile;
-    public Tilemap destructTile;
-    public GameObject tilePrefab;
-    public GameObject explosionPrefab;
+    private float cDown = 0.75f;
 
-    public bool GetTileData(Vector3Int position, ITilemap tilemap, ref TileData tileData)
-    {
-        if (destructTile.GetTile<Tile>(position) == true)
-        {
-            Instantiate(tilePrefab, transform.position, Quaternion.identity);
-            Destroy(destructTile);
-            Destroy(explosionPrefab);
-        }
-        else
-        {
-           Destroy(gameObject);
-        }
-        return true;
-    }
-    public void OnTriggerEnter2D(Collider2D collision)
-    {
-        if (collision.gameObject.GetComponent<Explosion>() != null)
-        {
-            return;
-        }
-        else if (collision.gameObject.GetComponent<Bomb>() != null)
-        {
-            collision.gameObject.GetComponent<Bomb>().Explode();
-        }
-    }
+    
     private void Update()
     {
         
@@ -45,6 +16,16 @@ public class Explosion : MonoBehaviour
         if (cDown <= 0f)
         {
             Destroy(gameObject);
+        }
+    }
+    public void OnTriggerEnter2D(Collider2D collision)
+    {
+        Destroy(collision.gameObject);
+        Destroy(this.gameObject);
+
+        if (collision.gameObject.GetComponent<Bomb>() != null)
+        {
+            collision.gameObject.GetComponent<Bomb>().Explode();
         }
     }
 }

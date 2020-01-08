@@ -1,0 +1,147 @@
+﻿<!doctype html>
+<!-- Created by: Angelo Goncalves, 300-887-613 - Created on: November 16th, 2019  -->
+<html lang="en">
+<head>
+<meta content="en-us" http-equiv="Content-Language">
+<title>Centennial College Evaluation Form</title>
+<meta content="An evaluation form for Continuing Education" name="description">
+<meta content="HTML, Centennial College, Continuing Education, Courses" name="keywords">
+<link href="Assignment04StyleSheet.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+</style>
+</head>
+<div id="allPage">
+<header><a href="https://www.centennialcollege.ca/">
+	<img alt="Centennial College Logo" class="auto-style1" height="289" src="CentennialCollegeLogo.jpg" width="289"></a>
+	</header>
+
+<body style="background-color: #3E5702">	<h1>Centennial College</h1>
+	<h2>Continuing Education Course/Instructor Evaluation</h2>
+<p>Please read each statement carefully and consider each one individually. 
+	Use the <strong>form below</strong> to make your choice. Give only <strong>
+	one answer</strong> 
+	for each question.</p>
+	<form action="mailto:agoncal7@my.centennialcollege.ca"  method="post">
+	<label>Course Name/Code:</label>
+		<select name="CourseSelection" tabindex="1">
+		<option>GNED-216</option>
+		<option>COMP-100</option>
+		<option>COMP-213</option>
+		<option>COMP-391</option>
+		<option>MATH-175</option>
+		<option>COMM-170/COMM-171</option>
+		</select>
+		<br><label>Semester:</label>
+		<input name="optSemester" tabindex="3" type="radio" value="Fall">Fall
+		<input name="optSemester" tabindex="5" type="radio" value="Winter">Winter
+		<input name="optSemester" tabindex="7" type="radio" value="Spring/Summer">Spring/Summer 
+		<br><label>Year:</label>
+		<select name="Select2" tabindex="9">
+		<option>2019</option>
+		<option>2020</option>
+		<option>2021</option>
+		<option>2022</option>
+		</select>
+		<br><label>Instructor:</label> 
+		<input name="txtInstructor" type="text" size="50" tabindex="9" required="required"><br>
+		<fieldset>
+		<legend>Instructor: </legend>
+		<p>How would you rate the instructor's: </p>
+		<ol>
+			<li><strong>Knowledge</strong> of subject?:
+			<select name="ddbKnowledge" tabindex="15">
+			<option>Excellent</option>
+			<option>Good</option>
+			<option>Fair</option>
+			<option>Not Satisfactory</option>
+			</select></li>
+			<li><strong>Helpfulness</strong> of the instructor?: 		
+			<select name="ddbHelpfulness" tabindex="17">
+			<option>Excellent</option>
+			<option>Good</option>
+			<option>Fair</option>
+			<option>Not Satisfactory</option>
+</select></li>
+			<li><strong>Courtesy</strong> and respect for all the sudents?:
+		<select name="ddbCourtesy" tabindex="19">
+		<option>Excellent</option>
+		<option>Good</option>
+		<option>Fair</option>
+		<option>Not Satisfactory</option>
+</select></li>
+			<li><strong>Communication</strong> skills?:
+		<select name="ddbCommunication" tabindex="21">
+		<option>Excellent</option>
+		<option>Good</option>
+		<option>Fair</option>
+		<option>Not Satisfactory</option>
+		</select></li>
+			<li><strong>Overall</strong> performance?:
+		<select name="ddbOverall" tabindex="23">
+		<option>Excellent</option>
+		<option>Good</option>
+		<option>Fair</option>
+		<option>Not Satisfactory</option>
+		</select>
+		</ol>
+		</fieldset><fieldset>
+		<ol>
+			
+			</ol>
+			
+			<legend>Course</legend>
+		<ol>
+			<li>How would you <strong>rate the course material</strong>?
+			<select name="ddbRate_Course_Material" tabindex="25">
+			<option>Excellent</option>
+			<option>Good</option>
+			<option>Fair</option>
+			<option>Not Satisfactory</option>
+			</select> </li>
+			<li>How much did this course <strong>meet your expectations</strong>?<select name="ddbExpectations" tabindex="27">
+			<option>Excellent</option>
+			<option>Good</option>
+			<option>Fair</option>
+			<option>Not Satisfactory</option>
+			</select></li>
+			<li>How would you rate this course (Overall)?<select name="ddbRate_Course" tabindex="29">
+			<option>Excellent</option>
+			<option>Good</option>
+			<option>Fair</option>
+			<option>Not Satisfactory</option>
+			</select></li>
+			</li>
+		</ol>
+			</li>
+		</fieldset>
+		<fieldset><h3>General Information</h3>
+		<p>1.Was the course outline reviewed/explained at the beginning of your 
+		course?</p>
+		<p>
+		<input name="optCourseOutline" type="radio" tabindex="31" value="Yes"> Yes
+		<input name="optCourseOutline" type="radio" tabindex="33" value="No"> No
+		<input name="optCourseOutline" type="radio" tabindex="35" value="Not Sure"> Not Sure</p>
+		<p>
+		2. Would you recommend this course to a friend with the same interests?</p>
+		<p>
+		<input name="optRecommend" type="radio" tabindex="37" value="Yes"> Yes
+		<input name="optRecommend" type="radio" tabindex="39" value="No"> No
+		<input name="optRecommend" type="radio" tabindex="41" value="Not Sure"> Not Sure</p></fieldset>
+		<fieldset><h3>Any Other Comments</h3>
+		<p>
+		1. What is the best thing about this course?<input name="txtBestThing" type="text" tabindex="43" required="required"></p>
+		<p>
+		2. How could we improve this course?<input name="txtImprovements" type="text" tabindex="45" required="required"></p>
+		<p>
+		3. Other: <input name="txtOther" type="text" tabindex="47"></p></fieldset>
+		<p>
+		<input name="Submit" type="submit" value="Submit Form" tabindex="49">
+		<input name="Reset" type="reset" value="Reset Form" tabindex="51"></p>
+		<p>
+		<a href="../index.html">Back to Index!</a></p>
+	</form>
+	<p id="copyright">©&nbsp;Copyright COMP213 - Assignment 04</p>
+
+</body>
+</div>
+</html>
