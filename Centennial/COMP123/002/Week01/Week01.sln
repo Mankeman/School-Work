@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BadRectangleDemo", "BadRectangleDemo\BadRectangleDemo.csproj", "{BBD7CAD2-300C-43A3-A030-935E3666A01A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectangleDemo", "RectangleDemo\RectangleDemo.csproj", "{618758B7-0BD2-4E22-8D9C-DD2855A71033}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBD7CAD2-300C-43A3-A030-935E3666A01A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBD7CAD2-300C-43A3-A030-935E3666A01A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBD7CAD2-300C-43A3-A030-935E3666A01A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBD7CAD2-300C-43A3-A030-935E3666A01A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{618758B7-0BD2-4E22-8D9C-DD2855A71033}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{618758B7-0BD2-4E22-8D9C-DD2855A71033}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{618758B7-0BD2-4E22-8D9C-DD2855A71033}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{618758B7-0BD2-4E22-8D9C-DD2855A71033}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83C174E0-63A1-492D-92CD-BB50C2F47E52}
+	EndGlobalSection
+EndGlobal
